@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 4.4
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CartesianSystem", "CartesianSystem\CartesianSystem.csproj", "{F9F9F50A-41FF-4360-9B86-3CABACEDF822}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cartesiano", "Cartesiano\Cartesiano.csproj", "{C76D9AED-899B-4079-A3D0-5F8C1CA31191}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F9F9F50A-41FF-4360-9B86-3CABACEDF822}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9F9F50A-41FF-4360-9B86-3CABACEDF822}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9F9F50A-41FF-4360-9B86-3CABACEDF822}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9F9F50A-41FF-4360-9B86-3CABACEDF822}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C76D9AED-899B-4079-A3D0-5F8C1CA31191}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C76D9AED-899B-4079-A3D0-5F8C1CA31191}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C76D9AED-899B-4079-A3D0-5F8C1CA31191}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C76D9AED-899B-4079-A3D0-5F8C1CA31191}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+EndGlobal

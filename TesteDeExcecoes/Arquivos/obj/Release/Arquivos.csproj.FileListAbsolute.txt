@@ -1,0 +1,3 @@
+C:\Users\talba\Documents\Projects\TesteDeExcecoes\Arquivos\bin\Release\Arquivos.exe
+C:\Users\talba\Documents\Projects\TesteDeExcecoes\Arquivos\obj\Release\Arquivos.csprojResolveAssemblyReference.cache
+C:\Users\talba\Documents\Projects\TesteDeExcecoes\Arquivos\obj\Release\Arquivos.exe

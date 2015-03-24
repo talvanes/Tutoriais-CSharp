@@ -1,0 +1,5 @@
+C:\Users\talba\Documents\Projects\TesteDeEventos\TesteDeEventos\obj\Debug\TesteDeEventos.csprojResolveAssemblyReference.cache
+C:\Users\talba\Documents\Projects\TesteDeEventos\TesteDeEventos\bin\Debug\TesteDeEventos.exe
+C:\Users\talba\Documents\Projects\TesteDeEventos\TesteDeEventos\bin\Debug\TesteDeEventos.pdb
+C:\Users\talba\Documents\Projects\TesteDeEventos\TesteDeEventos\obj\Debug\TesteDeEventos.exe
+C:\Users\talba\Documents\Projects\TesteDeEventos\TesteDeEventos\obj\Debug\TesteDeEventos.pdb

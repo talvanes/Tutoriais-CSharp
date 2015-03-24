@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 4.4
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Indexadores", "Indexadores\Indexadores.csproj", "{5C20EF8E-6331-4113-868F-9B3998508DD1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Indexadores2", "Indexadores2\Indexadores2.csproj", "{1BEE317D-7E6D-44A2-80E5-D49FD9834B4B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5C20EF8E-6331-4113-868F-9B3998508DD1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C20EF8E-6331-4113-868F-9B3998508DD1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C20EF8E-6331-4113-868F-9B3998508DD1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C20EF8E-6331-4113-868F-9B3998508DD1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BEE317D-7E6D-44A2-80E5-D49FD9834B4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BEE317D-7E6D-44A2-80E5-D49FD9834B4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BEE317D-7E6D-44A2-80E5-D49FD9834B4B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1BEE317D-7E6D-44A2-80E5-D49FD9834B4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+EndGlobal

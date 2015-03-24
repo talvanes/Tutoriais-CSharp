@@ -1,0 +1,6 @@
+C:\Users\talba\Documents\Projects\WinForms\SimpleMenu\bin\Debug\MenusToolbars.exe.config
+C:\Users\talba\Documents\Projects\WinForms\SimpleMenu\bin\Debug\MenusToolbars.exe
+C:\Users\talba\Documents\Projects\WinForms\SimpleMenu\bin\Debug\MenusToolbars.pdb
+C:\Users\talba\Documents\Projects\WinForms\SimpleMenu\obj\Debug\MenusToolbars.csprojResolveAssemblyReference.cache
+C:\Users\talba\Documents\Projects\WinForms\SimpleMenu\obj\Debug\MenusToolbars.exe
+C:\Users\talba\Documents\Projects\WinForms\SimpleMenu\obj\Debug\MenusToolbars.pdb

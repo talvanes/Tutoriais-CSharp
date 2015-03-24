@@ -1,0 +1,6 @@
+C:\Users\talba\Documents\Projects\Streams\MemoryReadWrite2\obj\Debug\MemoryReadWrite2.csprojResolveAssemblyReference.cache
+C:\Users\talba\Documents\Projects\Streams\MemoryReadWrite2\bin\Debug\MemoryReadWrite2.exe.config
+C:\Users\talba\Documents\Projects\Streams\MemoryReadWrite2\bin\Debug\MemoryReadWrite2.exe
+C:\Users\talba\Documents\Projects\Streams\MemoryReadWrite2\bin\Debug\MemoryReadWrite2.pdb
+C:\Users\talba\Documents\Projects\Streams\MemoryReadWrite2\obj\Debug\MemoryReadWrite2.exe
+C:\Users\talba\Documents\Projects\Streams\MemoryReadWrite2\obj\Debug\MemoryReadWrite2.pdb

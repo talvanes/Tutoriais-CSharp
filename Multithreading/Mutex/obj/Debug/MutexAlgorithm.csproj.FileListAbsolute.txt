@@ -1,0 +1,6 @@
+C:\Users\talba\Documents\Projects\Multithreading\Mutex\bin\Debug\MutexAlgorithm.exe.config
+C:\Users\talba\Documents\Projects\Multithreading\Mutex\bin\Debug\MutexAlgorithm.exe
+C:\Users\talba\Documents\Projects\Multithreading\Mutex\bin\Debug\MutexAlgorithm.pdb
+C:\Users\talba\Documents\Projects\Multithreading\Mutex\obj\Debug\MutexAlgorithm.csprojResolveAssemblyReference.cache
+C:\Users\talba\Documents\Projects\Multithreading\Mutex\obj\Debug\MutexAlgorithm.exe
+C:\Users\talba\Documents\Projects\Multithreading\Mutex\obj\Debug\MutexAlgorithm.pdb

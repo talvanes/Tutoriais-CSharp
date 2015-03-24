@@ -1,0 +1,5 @@
+C:\Users\talba\Documents\Projects\Electronics\Electronics\bin\Debug\Electronics.exe
+C:\Users\talba\Documents\Projects\Electronics\Electronics\bin\Debug\Electronics.pdb
+C:\Users\talba\Documents\Projects\Electronics\Electronics\obj\Debug\Electronics.csprojResolveAssemblyReference.cache
+C:\Users\talba\Documents\Projects\Electronics\Electronics\obj\Debug\Electronics.exe
+C:\Users\talba\Documents\Projects\Electronics\Electronics\obj\Debug\Electronics.pdb

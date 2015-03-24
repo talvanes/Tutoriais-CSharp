@@ -1,0 +1,6 @@
+C:\Users\talba\Documents\Projects\WinForms\MenuWithImages\bin\Debug\MenuWithImages.exe.config
+C:\Users\talba\Documents\Projects\WinForms\MenuWithImages\bin\Debug\MenuWithImages.exe
+C:\Users\talba\Documents\Projects\WinForms\MenuWithImages\bin\Debug\MenuWithImages.pdb
+C:\Users\talba\Documents\Projects\WinForms\MenuWithImages\obj\Debug\MenuWithImages.csprojResolveAssemblyReference.cache
+C:\Users\talba\Documents\Projects\WinForms\MenuWithImages\obj\Debug\MenuWithImages.exe
+C:\Users\talba\Documents\Projects\WinForms\MenuWithImages\obj\Debug\MenuWithImages.pdb

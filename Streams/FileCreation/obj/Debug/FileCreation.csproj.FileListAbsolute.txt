@@ -1,0 +1,6 @@
+C:\Users\talba\Documents\Projects\Streams\FileCreation\bin\Debug\FileCreation.exe.config
+C:\Users\talba\Documents\Projects\Streams\FileCreation\bin\Debug\FileCreation.exe
+C:\Users\talba\Documents\Projects\Streams\FileCreation\bin\Debug\FileCreation.pdb
+C:\Users\talba\Documents\Projects\Streams\FileCreation\obj\Debug\FileCreation.csprojResolveAssemblyReference.cache
+C:\Users\talba\Documents\Projects\Streams\FileCreation\obj\Debug\FileCreation.exe
+C:\Users\talba\Documents\Projects\Streams\FileCreation\obj\Debug\FileCreation.pdb

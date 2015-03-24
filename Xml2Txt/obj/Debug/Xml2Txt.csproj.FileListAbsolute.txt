@@ -1,0 +1,6 @@
+C:\Users\talba\Documents\Projects\Xml2Txt\bin\Debug\Xml2Txt.exe.config
+C:\Users\talba\Documents\Projects\Xml2Txt\bin\Debug\Xml2Txt.exe
+C:\Users\talba\Documents\Projects\Xml2Txt\bin\Debug\Xml2Txt.pdb
+C:\Users\talba\Documents\Projects\Xml2Txt\obj\Debug\Xml2Txt.csprojResolveAssemblyReference.cache
+C:\Users\talba\Documents\Projects\Xml2Txt\obj\Debug\Xml2Txt.exe
+C:\Users\talba\Documents\Projects\Xml2Txt\obj\Debug\Xml2Txt.pdb

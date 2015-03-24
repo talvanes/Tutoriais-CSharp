@@ -1,0 +1,6 @@
+C:\Users\talba\Documents\Projects\Multithreading\Monitor\bin\Debug\MonitorAlgorithm.exe.config
+C:\Users\talba\Documents\Projects\Multithreading\Monitor\bin\Debug\MonitorAlgorithm.exe
+C:\Users\talba\Documents\Projects\Multithreading\Monitor\bin\Debug\MonitorAlgorithm.pdb
+C:\Users\talba\Documents\Projects\Multithreading\Monitor\obj\Debug\MonitorAlgorithm.csprojResolveAssemblyReference.cache
+C:\Users\talba\Documents\Projects\Multithreading\Monitor\obj\Debug\MonitorAlgorithm.exe
+C:\Users\talba\Documents\Projects\Multithreading\Monitor\obj\Debug\MonitorAlgorithm.pdb

@@ -1,0 +1,6 @@
+C:\Users\talba\Documents\Projects\Streams\ManipulatingFiles\bin\Debug\ManipulatingFiles.exe.config
+C:\Users\talba\Documents\Projects\Streams\ManipulatingFiles\bin\Debug\ManipulatingFiles.exe
+C:\Users\talba\Documents\Projects\Streams\ManipulatingFiles\bin\Debug\ManipulatingFiles.pdb
+C:\Users\talba\Documents\Projects\Streams\ManipulatingFiles\obj\Debug\ManipulatingFiles.csprojResolveAssemblyReference.cache
+C:\Users\talba\Documents\Projects\Streams\ManipulatingFiles\obj\Debug\ManipulatingFiles.exe
+C:\Users\talba\Documents\Projects\Streams\ManipulatingFiles\obj\Debug\ManipulatingFiles.pdb

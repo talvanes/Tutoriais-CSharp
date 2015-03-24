@@ -1,0 +1,5 @@
+C:\Users\talba\Documents\Projects\TesteDeExcecoes\TesteDeExcecoes\bin\Debug\Calculo.exe
+C:\Users\talba\Documents\Projects\TesteDeExcecoes\TesteDeExcecoes\bin\Debug\Calculo.pdb
+C:\Users\talba\Documents\Projects\TesteDeExcecoes\TesteDeExcecoes\obj\Debug\Calculo.csprojResolveAssemblyReference.cache
+C:\Users\talba\Documents\Projects\TesteDeExcecoes\TesteDeExcecoes\obj\Debug\Calculo.exe
+C:\Users\talba\Documents\Projects\TesteDeExcecoes\TesteDeExcecoes\obj\Debug\Calculo.pdb

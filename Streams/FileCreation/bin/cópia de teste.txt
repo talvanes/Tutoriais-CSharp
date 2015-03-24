@@ -1,0 +1,17 @@
+EnglishEspañol
+Pineapple               Ananás
+Apple                  Manzana
+Passion fruit         Maracuyá
+Banana                 Plátano
+Strawberry            Frutilla
+Watermelon              Sandía
+Melon                    Melón
+Lemon                    Limón
+Orange                 Naranja
+Peach                Melocotón
+Apricot            Albaricoque
+Sauce                    Salsa
+Bread                      Pán
+Coffee                    Café
+Tea                         Té
+Cake                    Pastel

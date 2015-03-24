@@ -1,0 +1,731 @@
+(C:/ROS/reactos-0.3.15/ntoskrnl/kd/kdio.c:375) -----------------------------------------------------
+(C:/ROS/reactos-0.3.15/ntoskrnl/kd/kdio.c:376) ReactOS 0.3.15- (Build 20130518-r59037)
+(C:/ROS/reactos-0.3.15/ntoskrnl/kd/kdio.c:378) 1 System Processor [511 MB Memory]
+(C:/ROS/reactos-0.3.15/ntoskrnl/kd/kdio.c:379) Command Line: NOGUIBOOT KDSERIAL DEBUGPORT=COM1 FIRSTCHANCE
+(C:/ROS/reactos-0.3.15/ntoskrnl/kd/kdio.c:383) ARC Paths: multi(0)disk(0)cdrom(31) \ multi(0)disk(0)cdrom(31) \reactos\
+(C:/ROS/reactos-0.3.15/ntoskrnl/ke/i386/cpu.c:494) Supported CPU features : KF_V86_VIS KF_RDTSC KF_CR4 KF_CMOV KF_GLOBAL_PAGE KF_LARGE_PAGE KF_MTRR KF_CMPXCHG8B KF_MMX KF_WORKING_PTE KF_PAT KF_FXSR KF_FAST_SYSCALL KF_XMMI   KF_XMMI64 KF_DTS KF_NX_BIT  
+(C:/ROS/reactos-0.3.15/ntoskrnl/ke/i386/cpu.c:801) Prefetch Cache: 64 bytes	L2 Cache: 0 bytes	L2 Cache Line: 64 bytes	L2 Cache Associativity: 0
+(C:/ROS/reactos-0.3.15/ntoskrnl/mm/ARM3/expool.c:1010) EXPOOL: Pool Tracker Table at: 0xB12CA000 with 0xe01c bytes
+(C:/ROS/reactos-0.3.15/ntoskrnl/mm/ARM3/expool.c:1012) EXPOOL: Big Pool Tracker Table at: 0xB12BA000 with 0x10000 bytes
+(C:/ROS/reactos-0.3.15/ntoskrnl/mm/ARM3/mminit.c:1433) HAL I/O Mapping at FFFE0000 is unsafe
+(C:/ROS/reactos-0.3.15/ntoskrnl/mm/mminit.c:262)           0x80000000 - 0x80C00000	Boot Loaded Image
+(C:/ROS/reactos-0.3.15/ntoskrnl/mm/mminit.c:266)           0xB0000000 - 0xB0301000	PFN Database
+(C:/ROS/reactos-0.3.15/ntoskrnl/mm/mminit.c:270)           0xB0301000 - 0xB12D9000	ARM3 Non Paged Pool
+(C:/ROS/reactos-0.3.15/ntoskrnl/mm/mminit.c:274)           0xBB000000 - 0xBD000000	System View Space
+(C:/ROS/reactos-0.3.15/ntoskrnl/mm/mminit.c:278)           0xBD000000 - 0xC0000000	Session Space
+(C:/ROS/reactos-0.3.15/ntoskrnl/mm/mminit.c:281)           0xC0000000 - 0xC03FFFFF	Page Tables
+(C:/ROS/reactos-0.3.15/ntoskrnl/mm/mminit.c:284)           0xC0300000 - 0xC0300FFF	Page Directories
+(C:/ROS/reactos-0.3.15/ntoskrnl/mm/mminit.c:287)           0xC0400000 - 0xC07FFFFF	Hyperspace
+(C:/ROS/reactos-0.3.15/ntoskrnl/mm/mminit.c:291)           0xE1000000 - 0xEDC00000	ARM3 Paged Pool
+(C:/ROS/reactos-0.3.15/ntoskrnl/mm/mminit.c:294)           0xEDC00000 - 0xF8BB8000	System PTE Space
+(C:/ROS/reactos-0.3.15/ntoskrnl/mm/mminit.c:297)           0xF8BB8000 - 0xFFBE0000	Non Paged Pool Expansion PTE Space
+(C:/ROS/reactos-0.3.15/ntoskrnl/config/cmhvlist.c:158) CmpAddToHiveFileList: Creation or opening of the hive list failed, status = c0000034
+(C:/ROS/reactos-0.3.15/hal/halx86/legacy/bussupp.c:594) Your machine has a PCI-to-PCI or CardBUS Bridge. PCI devices may fail!
+(C:/ROS/reactos-0.3.15/hal/halx86/legacy/bussupp.c:623) Found parent bus (indicating PCI Bridge). PCI devices may fail!
+
+====== PCI BUS HARDWARE DETECTION =======
+
+00:00.0 Host bridge [0600]: Intel Corporation 440BX/ZX/DX - 82443BX/ZX/DX Host bridge [8086:7190] (rev 01)
+	Subsystem: Virtual Machine Chipset [15ad:1976]
+	Flags: bus master, medium devsel, latency 0
+
+00:01.0 PCI bridge [0604]: Intel Corporation 440BX/ZX/DX - 82443BX/ZX/DX AGP bridge [8086:7191] (rev 01)
+	Subsystem: Unknown [0000:0000]
+	Flags: bus master, 66MHz, medium devsel, latency 0
+	Memory at 40010100 (32-bit, non-prefetchable) [size=256]
+	Memory at 02a000f0 (32-bit, non-prefetchable) [size=2M]
+	Memory at 0000fff0 (32-bit, non-prefetchable) [size=256]
+	Memory at 0000fff0 (32-bit, non-prefetchable) [size=256]
+
+00:07.0 ISA bridge [0601]: Intel Corporation 82371AB/EB/MB PIIX4 ISA [8086:7110] (rev 08)
+	Subsystem: Virtual Machine Chipset [15ad:1976]
+	Flags: bus master, medium devsel, latency 0
+
+00:07.1 IDE interface [0101]: Intel Corporation 82371AB/EB/MB PIIX4 IDE [8086:7111] (rev 01)
+	Subsystem: Virtual Machine Chipset [15ad:1976]
+	Flags: bus master, medium devsel, latency 64
+	I/O ports at 10e0 [size=32]
+
+00:07.3 Secondary bus towards host CPU [0680]: Intel Corporation 82371AB/EB/MB PIIX4 ACPI [8086:7113] (rev 08)
+	Subsystem: Virtual Machine Chipset [15ad:1976]
+	Flags: medium devsel, latency 0
+
+00:07.7 System peripheral [0880]: VMware Virtual Machine Communication Interface [15ad:0740] (rev 10)
+	Subsystem: Unknown [15ad:0740]
+	Flags: medium devsel, latency 64, IRQ 09
+	I/O ports at 1080 [size=128]
+	Memory at c8000000 (64-bit, non-prefetchable) [size=128M]
+	Device is using IRQ 9! ISA Cards using that IRQ may fail!
+
+00:0f.0 VGA compatible controller [0300]: VMware SVGA II Adapter [15ad:0405] (rev 00)
+	Subsystem: Unknown [15ad:0405]
+	Flags: medium devsel, latency 64, IRQ 09
+	I/O ports at 10f0 [size=16]
+	Memory at d0000000 (32-bit, prefetchable) [size=256M]
+	Memory at c8800000 (32-bit, non-prefetchable) [size=8M]
+	Device is using IRQ 9! ISA Cards using that IRQ may fail!
+
+00:10.0 SCSI storage controller [0100]: Maestro SP2 BT-946C (BA80C30) [MultiMaster 10] [104b:1040] (rev 01)
+	Subsystem: Unknown [104b:1040]
+	Flags: bus master, medium devsel, latency 64, IRQ 11
+	I/O ports at 10c0 [size=64]
+	Memory at c8002000 (32-bit, non-prefetchable) [size=8K]
+	Device is using IRQ 11! ISA Cards using that IRQ may fail!
+
+00:11.0 PCI bridge [0604]: VMware PCI bridge [15ad:0790] (rev 02)
+	Subsystem: GLoria L [0000:0000]
+	Flags: bus master, medium devsel, latency 64
+	Memory at 44020200 (32-bit, non-prefetchable) [size=512]
+	Memory at 02803020 (32-bit, non-prefetchable) [size=4K]
+	Memory at ca30c990 (32-bit, non-prefetchable) [size=256]
+	I/O ports at d891d840 [size=64]
+
+00:15.0 PCI bridge [0604]: VMware PCI Express Root Port [15ad:07a0] (rev 01)
+	Subsystem: GLoria L [0000:0000]
+	Flags: bus master, fast devsel, latency 0
+	Memory at 00030300 (32-bit, non-prefetchable) [size=256]
+	Memory at 00004040 (32-bit, non-prefetchable) [size=16K]
+	Memory at ca40ca40 (32-bit, non-prefetchable) [size=512]
+	I/O ports at d8a1d8a0 [size=32]
+
+00:15.1 PCI bridge [0604]: VMware PCI Express Root Port [15ad:07a0] (rev 01)
+	Subsystem: GLoria L [0000:0000]
+	Flags: bus master, fast devsel, latency 0
+	Memory at 00040400 (32-bit, non-prefetchable) [size=1K]
+	Memory at 00008080 (32-bit, non-prefetchable) [size=32K]
+	Memory at ca80ca80 (32-bit, non-prefetchable) [size=512]
+	I/O ports at d8e1d8e0 [size=32]
+
+00:15.2 PCI bridge [0604]: VMware PCI Express Root Port [15ad:07a0] (rev 01)
+	Subsystem: GLoria L [0000:0000]
+	Flags: bus master, fast devsel, latency 0
+	Memory at 00050500 (32-bit, non-prefetchable) [size=256]
+	Memory at 0000c0c0 (32-bit, non-prefetchable) [size=16K]
+	Memory at cac0cac0 (32-bit, non-prefetchable) [size=512]
+	I/O ports at d921d920 [size=32]
+
+00:15.3 PCI bridge [0604]: VMware PCI Express Root Port [15ad:07a0] (rev 01)
+	Subsystem: GLoria L [0000:0000]
+	Flags: bus master, fast devsel, latency 0
+	Memory at 00060600 (32-bit, non-prefetchable) [size=512]
+	Memory at 000000f0 (32-bit, non-prefetchable)	Memory at cb00cb00 (32-bit, non-prefetchable) [size=256]
+	I/O ports at d961d960 [size=32]
+
+00:15.4 PCI bridge [0604]: VMware PCI Express Root Port [15ad:07a0] (rev 01)
+	Subsystem: GLoria L [0000:0000]
+	Flags: bus master, fast devsel, latency 0
+	Memory at 00070700 (32-bit, non-prefetchable) [size=256]
+	Memory at 000000f0 (32-bit, non-prefetchable)	Memory at cb40cb40 (32-bit, non-prefetchable) [size=256]
+	I/O ports at d9a1d9a0 [size=32]
+
+00:15.5 PCI bridge [0604]: VMware PCI Express Root Port [15ad:07a0] (rev 01)
+	Subsystem: GLoria L [0000:0000]
+	Flags: bus master, fast devsel, latency 0
+	Memory at 00080800 (32-bit, non-prefetchable) [size=2K]
+	Memory at 000000f0 (32-bit, non-prefetchable)	Memory at cb80cb80 (32-bit, non-prefetchable) [size=256]
+	I/O ports at d9e1d9e0 [size=32]
+
+00:15.6 PCI bridge [0604]: VMware PCI Express Root Port [15ad:07a0] (rev 01)
+	Subsystem: GLoria L [0000:0000]
+	Flags: bus master, fast devsel, latency 0
+	Memory at 00090900 (32-bit, non-prefetchable) [size=256]
+	Memory at 000000f0 (32-bit, non-prefetchable)	Memory at cbc0cbc0 (32-bit, non-prefetchable) [size=256]
+	I/O ports at da21da20 [size=32]
+
+00:15.7 PCI bridge [0604]: VMware PCI Express Root Port [15ad:07a0] (rev 01)
+	Subsystem: GLoria L [0000:0000]
+	Flags: bus master, fast devsel, latency 0
+	Memory at 000a0a00 (32-bit, non-prefetchable) [size=512]
+	Memory at 000000f0 (32-bit, non-prefetchable)	Memory at cc00cc00 (32-bit, non-prefetchable) [size=1K]
+	I/O ports at da61da60 [size=32]
+
+00:16.0 PCI bridge [0604]: VMware PCI Express Root Port [15ad:07a0] (rev 01)
+	Subsystem: GLoria L [0000:0000]
+	Flags: bus master, fast devsel, latency 0
+	Memory at 000b0b00 (32-bit, non-prefetchable) [size=256]
+	Memory at 00005050 (32-bit, non-prefetchable) [size=4K]
+	Memory at ca50ca50 (32-bit, non-prefetchable) [size=512]
+	I/O ports at d8b1d8b0 [size=16]
+
+00:16.1 PCI bridge [0604]: VMware PCI Express Root Port [15ad:07a0] (rev 01)
+	Subsystem: GLoria L [0000:0000]
+	Flags: bus master, fast devsel, latency 0
+	Memory at 000c0c00 (32-bit, non-prefetchable) [size=1K]
+	Memory at 00009090 (32-bit, non-prefetchable) [size=4K]
+	Memory at ca90ca90 (32-bit, non-prefetchable) [size=512]
+	I/O ports at d8f1d8f0 [size=16]
+
+00:16.2 PCI bridge [0604]: VMware PCI Express Root Port [15ad:07a0] (rev 01)
+	Subsystem: GLoria L [0000:0000]
+	Flags: bus master, fast devsel, latency 0
+	Memory at 000d0d00 (32-bit, non-prefetchable) [size=256]
+	Memory at 0000d0d0 (32-bit, non-prefetchable) [size=4K]
+	Memory at cad0cad0 (32-bit, non-prefetchable) [size=512]
+	I/O ports at d931d930 [size=16]
+
+00:16.3 PCI bridge [0604]: VMware PCI Express Root Port [15ad:07a0] (rev 01)
+	Subsystem: GLoria L [0000:0000]
+	Flags: bus master, fast devsel, latency 0
+	Memory at 000e0e00 (32-bit, non-prefetchable) [size=512]
+	Memory at 000000f0 (32-bit, non-prefetchable)	Memory at cb10cb10 (32-bit, non-prefetchable) [size=256]
+	I/O ports at d971d970 [size=16]
+
+00:16.4 PCI bridge [0604]: VMware PCI Express Root Port [15ad:07a0] (rev 01)
+	Subsystem: GLoria L [0000:0000]
+	Flags: bus master, fast devsel, latency 0
+	Memory at 000f0f00 (32-bit, non-prefetchable) [size=256]
+	Memory at 000000f0 (32-bit, non-prefetchable)	Memory at cb50cb50 (32-bit, non-prefetchable) [size=256]
+	I/O ports at d9b1d9b0 [size=16]
+
+00:16.5 PCI bridge [0604]: VMware PCI Express Root Port [15ad:07a0] (rev 01)
+	Subsystem: GLoria L [0000:0000]
+	Flags: bus master, fast devsel, latency 0
+	Memory at 00101000 (32-bit, non-prefetchable) [size=4K]
+	Memory at 000000f0 (32-bit, non-prefetchable)	Memory at cb90cb90 (32-bit, non-prefetchable) [size=256]
+	I/O ports at d9f1d9f0 [size=16]
+
+00:16.6 PCI bridge [0604]: VMware PCI Express Root Port [15ad:07a0] (rev 01)
+	Subsystem: GLoria L [0000:0000]
+	Flags: bus master, fast devsel, latency 0
+	Memory at 00111100 (32-bit, non-prefetchable) [size=256]
+	Memory at 000000f0 (32-bit, non-prefetchable)	Memory at cbd0cbd0 (32-bit, non-prefetchable) [size=256]
+	I/O ports at da31da30 [size=16]
+
+00:16.7 PCI bridge [0604]: VMware PCI Express Root Port [15ad:07a0] (rev 01)
+	Subsystem: GLoria L [0000:0000]
+	Flags: bus master, fast devsel, latency 0
+	Memory at 00121200 (32-bit, non-prefetchable) [size=512]
+	Memory at 000000f0 (32-bit, non-prefetchable)	Memory at cc10cc10 (32-bit, non-prefetchable) [size=1K]
+	I/O ports at da71da70 [size=16]
+
+00:17.0 PCI bridge [0604]: VMware PCI Express Root Port [15ad:07a0] (rev 01)
+	Subsystem: GLoria L [0000:0000]
+	Flags: bus master, fast devsel, latency 0
+	Memory at 00131300 (32-bit, non-prefetchable) [size=256]
+	Memory at 00006060 (32-bit, non-prefetchable) [size=8K]
+	Memory at ca60ca60 (32-bit, non-prefetchable) [size=512]
+	I/O ports at d8c1d8c0 [size=64]
+
+00:17.1 PCI bridge [0604]: VMware PCI Express Root Port [15ad:07a0] (rev 01)
+	Subsystem: GLoria L [0000:0000]
+	Flags: bus master, fast devsel, latency 0
+	Memory at 00141400 (32-bit, non-prefetchable) [size=1K]
+	Memory at 0000a0a0 (32-bit, non-prefetchable) [size=8K]
+	Memory at caa0caa0 (32-bit, non-prefetchable) [size=512]
+	I/O ports at d901d900 [size=256]
+
+00:17.2 PCI bridge [0604]: VMware PCI Express Root Port [15ad:07a0] (rev 01)
+	Subsystem: GLoria L [0000:0000]
+	Flags: bus master, fast devsel, latency 0
+	Memory at 00151500 (32-bit, non-prefetchable) [size=256]
+	Memory at 0000e0e0 (32-bit, non-prefetchable) [size=8K]
+	Memory at cae0cae0 (32-bit, non-prefetchable) [size=512]
+	I/O ports at d941d940 [size=64]
+
+00:17.3 PCI bridge [0604]: VMware PCI Express Root Port [15ad:07a0] (rev 01)
+	Subsystem: GLoria L [0000:0000]
+	Flags: bus master, fast devsel, latency 0
+	Memory at 00161600 (32-bit, non-prefetchable) [size=512]
+	Memory at 000000f0 (32-bit, non-prefetchable)	Memory at cb20cb20 (32-bit, non-prefetchable) [size=256]
+	I/O ports at d981d980 [size=128]
+
+00:17.4 PCI bridge [0604]: VMware PCI Express Root Port [15ad:07a0] (rev 01)
+	Subsystem: GLoria L [0000:0000]
+	Flags: bus master, fast devsel, latency 0
+	Memory at 00171700 (32-bit, non-prefetchable) [size=256]
+	Memory at 000000f0 (32-bit, non-prefetchable)	Memory at cb60cb60 (32-bit, non-prefetchable) [size=256]
+	I/O ports at d9c1d9c0 [size=64]
+
+00:17.5 PCI bridge [0604]: VMware PCI Express Root Port [15ad:07a0] (rev 01)
+	Subsystem: GLoria L [0000:0000]
+	Flags: bus master, fast devsel, latency 0
+	Memory at 00181800 (32-bit, non-prefetchable) [size=2K]
+	Memory at 000000f0 (32-bit, non-prefetchable)	Memory at cba0cba0 (32-bit, non-prefetchable) [size=256]
+	I/O ports at da01da00 [size=512]
+
+00:17.6 PCI bridge [0604]: VMware PCI Express Root Port [15ad:07a0] (rev 01)
+	Subsystem: GLoria L [0000:0000]
+	Flags: bus master, fast devsel, latency 0
+	Memory at 00191900 (32-bit, non-prefetchable) [size=256]
+	Memory at 000000f0 (32-bit, non-prefetchable)	Memory at cbe0cbe0 (32-bit, non-prefetchable) [size=256]
+	I/O ports at da41da40 [size=64]
+
+00:17.7 PCI bridge [0604]: VMware PCI Express Root Port [15ad:07a0] (rev 01)
+	Subsystem: GLoria L [0000:0000]
+	Flags: bus master, fast devsel, latency 0
+	Memory at 001a1a00 (32-bit, non-prefetchable) [size=512]
+	Memory at 000000f0 (32-bit, non-prefetchable)	Memory at cc20cc20 (32-bit, non-prefetchable) [size=1K]
+	I/O ports at da81da80 [size=128]
+
+00:18.0 PCI bridge [0604]: VMware PCI Express Root Port [15ad:07a0] (rev 01)
+	Subsystem: GLoria L [0000:0000]
+	Flags: bus master, fast devsel, latency 0
+	Memory at 001b1b00 (32-bit, non-prefetchable) [size=256]
+	Memory at 00007070 (32-bit, non-prefetchable) [size=4K]
+	Memory at ca70ca70 (32-bit, non-prefetchable) [size=512]
+	I/O ports at d8d1d8d0 [size=16]
+
+00:18.1 PCI bridge [0604]: VMware PCI Express Root Port [15ad:07a0] (rev 01)
+	Subsystem: GLoria L [0000:0000]
+	Flags: bus master, fast devsel, latency 0
+	Memory at 001c1c00 (32-bit, non-prefetchable) [size=1K]
+	Memory at 0000b0b0 (32-bit, non-prefetchable) [size=4K]
+	Memory at cab0cab0 (32-bit, non-prefetchable) [size=512]
+	I/O ports at d911d910 [size=16]
+
+00:18.2 PCI bridge [0604]: VMware PCI Express Root Port [15ad:07a0] (rev 01)
+	Subsystem: GLoria L [0000:0000]
+	Flags: bus master, fast devsel, latency 0
+	Memory at 001d1d00 (32-bit, non-prefetchable) [size=256]
+	Memory at 0000f0f0 (32-bit, non-prefetchable) [size=4K]
+	Memory at caf0caf0 (32-bit, non-prefetchable) [size=512]
+	I/O ports at d951d950 [size=16]
+
+00:18.3 PCI bridge [0604]: VMware PCI Express Root Port [15ad:07a0] (rev 01)
+	Subsystem: GLoria L [0000:0000]
+	Flags: bus master, fast devsel, latency 0
+	Memory at 001e1e00 (32-bit, non-prefetchable) [size=512]
+	Memory at 000000f0 (32-bit, non-prefetchable)	Memory at cb30cb30 (32-bit, non-prefetchable) [size=256]
+	I/O ports at d991d990 [size=16]
+
+00:18.4 PCI bridge [0604]: VMware PCI Express Root Port [15ad:07a0] (rev 01)
+	Subsystem: GLoria L [0000:0000]
+	Flags: bus master, fast devsel, latency 0
+	Memory at 001f1f00 (32-bit, non-prefetchable) [size=256]
+	Memory at 000000f0 (32-bit, non-prefetchable)	Memory at cb70cb70 (32-bit, non-prefetchable) [size=256]
+	I/O ports at d9d1d9d0 [size=16]
+
+00:18.5 PCI bridge [0604]: VMware PCI Express Root Port [15ad:07a0] (rev 01)
+	Subsystem: GLoria L [0000:0000]
+	Flags: bus master, fast devsel, latency 0
+	Memory at 00202000 (32-bit, non-prefetchable) [size=8K]
+	Memory at 000000f0 (32-bit, non-prefetchable)	Memory at cbb0cbb0 (32-bit, non-prefetchable) [size=256]
+	I/O ports at da11da10 [size=16]
+
+00:18.6 PCI bridge [0604]: VMware PCI Express Root Port [15ad:07a0] (rev 01)
+	Subsystem: GLoria L [0000:0000]
+	Flags: bus master, fast devsel, latency 0
+	Memory at 00212100 (32-bit, non-prefetchable) [size=256]
+	Memory at 000000f0 (32-bit, non-prefetchable)	Memory at cbf0cbf0 (32-bit, non-prefetchable) [size=256]
+	I/O ports at da51da50 [size=16]
+
+00:18.7 PCI bridge [0604]: VMware PCI Express Root Port [15ad:07a0] (rev 01)
+	Subsystem: GLoria L [0000:0000]
+	Flags: bus master, fast devsel, latency 0
+	Memory at 00222200 (32-bit, non-prefetchable) [size=512]
+	Memory at 000000f0 (32-bit, non-prefetchable)	Memory at cc30cc30 (32-bit, non-prefetchable) [size=1K]
+	I/O ports at da91da90 [size=16]
+
+02:00.0 Ethernet controller [0200]: Advanced Micro Devices [AMD] 79c970 [PCnet32 LANCE] [1022:2000] (rev 10)
+	Subsystem: PCnet - Fast 79C971 [1022:2000]
+	Flags: medium devsel, latency 64, IRQ 10
+	I/O ports at 2000 [size=8K]
+	Device is using IRQ 10! ISA Cards using that IRQ may fail!
+
+02:01.0 Multimedia audio controller [0401]: Ensoniq ES1371 [AudioPCI-97] [1274:1371] (rev 02)
+	Subsystem: Creative Sound Blaster AudioPCI64V, AudioPCI128 [1274:1371]
+	Flags: medium devsel, latency 64, IRQ 05
+	I/O ports at 2080 [size=128]
+	Device is using IRQ 5! ISA Cards using that IRQ may fail!
+
+====== PCI BUS DETECTION COMPLETE =======
+
+PC Compatible Eisa/Isa HAL Detected
+(C:/ROS/reactos-0.3.15/ntoskrnl/io/pnpmgr/pnpinit.c:435) Need to build DACL
+(C:/ROS/reactos-0.3.15/ntoskrnl/io/pnpmgr/pnpmgr.c:3185) ZwOpenKey(\Registry\Machine\SYSTEM\CURRENTCONTROLSET\Control\Pnp) failed with status 0xc0000034
+(C:/ROS/reactos-0.3.15/ntoskrnl/io/pnpmgr/pnpmgr.c:3188) Firmware mapper is enabled
+(C:/ROS/reactos-0.3.15/ntoskrnl/io/pnpmgr/pnpreport.c:353) Reported device: DETECTEDInternal\PCI_HAL (Root\PCI_HAL\0)
+(C:/ROS/reactos-0.3.15/hal/halx86/legacy/bussupp.c:1159) Slot assignment for 5 on bus 0
+(C:/ROS/reactos-0.3.15/hal/halx86/legacy/bus/pcibus.c:715) WARNING: PCI Slot Resource Assignment is FOOBAR
+(C:/ROS/reactos-0.3.15/ntoskrnl/io/iomgr/iorsrce.c:874) IoReportResourceUsage is halfplemented!
+(C:/ROS/reactos-0.3.15/ntoskrnl/io/iomgr/iorsrce.c:874) IoReportResourceUsage is halfplemented!
+(C:/ROS/reactos-0.3.15/hal/halx86/legacy/bussupp.c:1159) Slot assignment for 5 on bus 0
+(C:/ROS/reactos-0.3.15/hal/halx86/legacy/bus/pcibus.c:715) WARNING: PCI Slot Resource Assignment is FOOBAR
+(C:/ROS/reactos-0.3.15/ntoskrnl/fstub/disksup.c:1514) FSTUB: (IoReadPartitionTable) No 0xaa55 found in partition table 0
+(C:/ROS/reactos-0.3.15/ntoskrnl/fstub/disksup.c:1514) FSTUB: (IoReadPartitionTable) No 0xaa55 found in partition table 0
+(C:/ROS/reactos-0.3.15/ntoskrnl/io/iomgr/arcname.c:386) Boot device found
+(C:/ROS/reactos-0.3.15/ntoskrnl/io/iomgr/file.c:438) Using IopParseDevice() hack. Requested invalid attributes: 1
+(C:/ROS/reactos-0.3.15/ntoskrnl/fstub/disksup.c:1514) FSTUB: (IoReadPartitionTable) No 0xaa55 found in partition table 0
+Drive letter already used!
+(C:/ROS/reactos-0.3.15/ntoskrnl/mm/ARM3/mminit.c:1173) Loader pages freed: 45
+(C:/ROS/reactos-0.3.15/ntoskrnl/ex/init.c:1959) Free non-cache pages: 1e1e6
+(C:/ROS/reactos-0.3.15/base/setup/usetup/interface/devinst.c:91) Using driver 'pci.sys' for device 'PCI_HAL\PNP0A03\0'
+(C:/ROS/reactos-0.3.15/ntoskrnl/io/pnpmgr/plugplay.c:635) A new driver will be loaded for 'PCI_HAL\PNP0A03\0' (no FDO above)
+(C:/ROS/reactos-0.3.15/ntoskrnl/mm/ARM3/sysldr.c:174) Loading: \SystemRoot\system32\drivers\pci.sys at F8895000 with b pages
+(C:/ROS/reactos-0.3.15/hal/halx86/legacy/halpnpdd.c:716) Start device received
+(C:/ROS/reactos-0.3.15/drivers/bus/pci/fdo.c:571) Unknown IOCTL 0x9
+(C:/ROS/reactos-0.3.15/drivers/bus/pci/fdo.c:571) Unknown IOCTL 0x14
+(C:/ROS/reactos-0.3.15/ntoskrnl/io/pnpmgr/pnpmgr.c:4030) IRP_MN_QUERY_PNP_DEVICE_STATE failed with status 0xc00000bb
+(C:/ROS/reactos-0.3.15/base/setup/usetup/interface/devinst.c:91) Using driver 'i8042prt.sys' for device 'Root\*PNP0303\0000'
+(C:/ROS/reactos-0.3.15/base/setup/usetup/interface/devinst.c:143) Installing keyboard class driver for 'Root\*PNP0303\0000'
+(C:/ROS/reactos-0.3.15/ntoskrnl/io/pnpmgr/plugplay.c:635) A new driver will be loaded for 'Root\*PNP0303\0000' (no FDO above)
+(C:/ROS/reactos-0.3.15/ntoskrnl/mm/ARM3/sysldr.c:174) Loading: \SystemRoot\system32\drivers\i8042prt.sys at F8884000 with 11 pages
+(C:/ROS/reactos-0.3.15/drivers/input/i8042prt/pnp.c:718) IRP_MJ_PNP / unknown minor function 0x9
+(C:/ROS/reactos-0.3.15/base/setup/usetup/interface/devinst.c:91) Using driver 'pci.sys' for device 'PCI\VEN_8086&DEV_7191&SUBSYS_00000000&REV_01\2&b3ac4ede&01'
+(C:/ROS/reactos-0.3.15/ntoskrnl/io/pnpmgr/plugplay.c:635) A new driver will be loaded for 'PCI\VEN_8086&DEV_7191&SUBSYS_00000000&REV_01\2&b3ac4ede&01' (no FDO above)
+(C:/ROS/reactos-0.3.15/drivers/bus/pci/pdo.c:1267) Enabling command flags for PCI device 0x1 on bus 0x0: None
+(C:/ROS/reactos-0.3.15/drivers/bus/pci/fdo.c:571) Unknown IOCTL 0x9
+(C:/ROS/reactos-0.3.15/drivers/bus/pci/fdo.c:571) Unknown IOCTL 0x14
+(C:/ROS/reactos-0.3.15/ntoskrnl/io/pnpmgr/pnpmgr.c:4030) IRP_MN_QUERY_PNP_DEVICE_STATE failed with status 0xc00000bb
+(C:/ROS/reactos-0.3.15/base/setup/usetup/interface/devinst.c:91) Using driver 'pciide.sys' for device 'PCI\VEN_8086&DEV_7111&SUBSYS_197615AD&REV_01\2&b3ac4ede&27'
+(C:/ROS/reactos-0.3.15/ntoskrnl/io/pnpmgr/plugplay.c:635) A new driver will be loaded for 'PCI\VEN_8086&DEV_7111&SUBSYS_197615AD&REV_01\2&b3ac4ede&27' (no FDO above)
+(C:/ROS/reactos-0.3.15/ntoskrnl/mm/ARM3/sysldr.c:174) Loading: \SystemRoot\system32\drivers\pciide.sys at F887D000 with 7 pages
+(C:/ROS/reactos-0.3.15/ntoskrnl/mm/ARM3/sysldr.c:174) Loading: \SystemRoot\system32\drivers\pciidex.sys at F8874000 with 9 pages
+(C:/ROS/reactos-0.3.15/hal/halx86/legacy/bus/pcibus.c:686) HAL: No PCI Resource Adjustment done! Hardware may malfunction
+(C:/ROS/reactos-0.3.15/drivers/bus/pci/pdo.c:1267) Enabling command flags for PCI device 0x27 on bus 0x0: [Bus master] [I/O space enable] 
+(C:/ROS/reactos-0.3.15/drivers/storage/ide/pciidex/fdo.c:464) IRP_MJ_PNP / Unknown minor function 0x9
+(C:/ROS/reactos-0.3.15/base/setup/usetup/interface/devinst.c:91) Using driver 'buslogic.sys' for device 'PCI\VEN_104B&DEV_1040&SUBSYS_1040104B&REV_01\2&b3ac4ede&10'
+(C:/ROS/reactos-0.3.15/ntoskrnl/io/pnpmgr/plugplay.c:635) A new driver will be loaded for 'PCI\VEN_104B&DEV_1040&SUBSYS_1040104B&REV_01\2&b3ac4ede&10' (no FDO above)
+(C:/ROS/reactos-0.3.15/hal/halx86/legacy/bus/pcibus.c:686) HAL: No PCI Resource Adjustment done! Hardware may malfunction
+(C:/ROS/reactos-0.3.15/base/setup/usetup/interface/devinst.c:91) Using driver 'pci.sys' for device 'PCI\VEN_15AD&DEV_0790&SUBSYS_00000000&REV_02\2&b3ac4ede&11'
+(C:/ROS/reactos-0.3.15/ntoskrnl/io/pnpmgr/plugplay.c:635) A new driver will be loaded for 'PCI\VEN_15AD&DEV_0790&SUBSYS_00000000&REV_02\2&b3ac4ede&11' (no FDO above)
+(C:/ROS/reactos-0.3.15/drivers/bus/pci/pdo.c:1267) Enabling command flags for PCI device 0x11 on bus 0x0: None
+(C:/ROS/reactos-0.3.15/drivers/bus/pci/fdo.c:571) Unknown IOCTL 0x9
+(C:/ROS/reactos-0.3.15/drivers/bus/pci/fdo.c:571) Unknown IOCTL 0x14
+(C:/ROS/reactos-0.3.15/ntoskrnl/io/pnpmgr/pnpmgr.c:4030) IRP_MN_QUERY_PNP_DEVICE_STATE failed with status 0xc00000bb
+(C:/ROS/reactos-0.3.15/base/setup/usetup/interface/devinst.c:91) Using driver 'pci.sys' for device 'PCI\VEN_15AD&DEV_07A0&SUBSYS_00000000&REV_01\2&b3ac4ede&15'
+(C:/ROS/reactos-0.3.15/ntoskrnl/io/pnpmgr/plugplay.c:635) A new driver will be loaded for 'PCI\VEN_15AD&DEV_07A0&SUBSYS_00000000&REV_01\2&b3ac4ede&15' (no FDO above)
+(C:/ROS/reactos-0.3.15/drivers/bus/pci/pdo.c:1267) Enabling command flags for PCI device 0x15 on bus 0x0: None
+(C:/ROS/reactos-0.3.15/drivers/bus/pci/fdo.c:571) Unknown IOCTL 0x9
+(C:/ROS/reactos-0.3.15/drivers/bus/pci/fdo.c:571) Unknown IOCTL 0x14
+(C:/ROS/reactos-0.3.15/ntoskrnl/io/pnpmgr/pnpmgr.c:4030) IRP_MN_QUERY_PNP_DEVICE_STATE failed with status 0xc00000bb
+(C:/ROS/reactos-0.3.15/base/setup/usetup/interface/devinst.c:91) Using driver 'pci.sys' for device 'PCI\VEN_15AD&DEV_07A0&SUBSYS_00000000&REV_01\2&b3ac4ede&35'
+(C:/ROS/reactos-0.3.15/ntoskrnl/io/pnpmgr/plugplay.c:635) A new driver will be loaded for 'PCI\VEN_15AD&DEV_07A0&SUBSYS_00000000&REV_01\2&b3ac4ede&35' (no FDO above)
+(C:/ROS/reactos-0.3.15/drivers/bus/pci/pdo.c:1267) Enabling command flags for PCI device 0x35 on bus 0x0: None
+(C:/ROS/reactos-0.3.15/drivers/bus/pci/fdo.c:571) Unknown IOCTL 0x9
+(C:/ROS/reactos-0.3.15/drivers/bus/pci/fdo.c:571) Unknown IOCTL 0x14
+(C:/ROS/reactos-0.3.15/ntoskrnl/io/pnpmgr/pnpmgr.c:4030) IRP_MN_QUERY_PNP_DEVICE_STATE failed with status 0xc00000bb
+(C:/ROS/reactos-0.3.15/base/setup/usetup/interface/devinst.c:91) Using driver 'pci.sys' for device 'PCI\VEN_15AD&DEV_07A0&SUBSYS_00000000&REV_01\2&b3ac4ede&55'
+(C:/ROS/reactos-0.3.15/ntoskrnl/io/pnpmgr/plugplay.c:635) A new driver will be loaded for 'PCI\VEN_15AD&DEV_07A0&SUBSYS_00000000&REV_01\2&b3ac4ede&55' (no FDO above)
+(C:/ROS/reactos-0.3.15/drivers/bus/pci/pdo.c:1267) Enabling command flags for PCI device 0x55 on bus 0x0: None
+(C:/ROS/reactos-0.3.15/drivers/bus/pci/fdo.c:571) Unknown IOCTL 0x9
+(C:/ROS/reactos-0.3.15/drivers/bus/pci/fdo.c:571) Unknown IOCTL 0x14
+(C:/ROS/reactos-0.3.15/ntoskrnl/io/pnpmgr/pnpmgr.c:4030) IRP_MN_QUERY_PNP_DEVICE_STATE failed with status 0xc00000bb
+(C:/ROS/reactos-0.3.15/base/setup/usetup/interface/devinst.c:91) Using driver 'pci.sys' for device 'PCI\VEN_15AD&DEV_07A0&SUBSYS_00000000&REV_01\2&b3ac4ede&75'
+(C:/ROS/reactos-0.3.15/ntoskrnl/io/pnpmgr/plugplay.c:635) A new driver will be loaded for 'PCI\VEN_15AD&DEV_07A0&SUBSYS_00000000&REV_01\2&b3ac4ede&75' (no FDO above)
+(C:/ROS/reactos-0.3.15/drivers/bus/pci/pdo.c:1267) Enabling command flags for PCI device 0x75 on bus 0x0: None
+(C:/ROS/reactos-0.3.15/drivers/bus/pci/fdo.c:571) Unknown IOCTL 0x9
+(C:/ROS/reactos-0.3.15/drivers/bus/pci/fdo.c:571) Unknown IOCTL 0x14
+(C:/ROS/reactos-0.3.15/ntoskrnl/io/pnpmgr/pnpmgr.c:4030) IRP_MN_QUERY_PNP_DEVICE_STATE failed with status 0xc00000bb
+(C:/ROS/reactos-0.3.15/base/setup/usetup/interface/devinst.c:91) Using driver 'pci.sys' for device 'PCI\VEN_15AD&DEV_07A0&SUBSYS_00000000&REV_01\2&b3ac4ede&95'
+(C:/ROS/reactos-0.3.15/ntoskrnl/io/pnpmgr/plugplay.c:635) A new driver will be loaded for 'PCI\VEN_15AD&DEV_07A0&SUBSYS_00000000&REV_01\2&b3ac4ede&95' (no FDO above)
+(C:/ROS/reactos-0.3.15/drivers/bus/pci/pdo.c:1267) Enabling command flags for PCI device 0x95 on bus 0x0: None
+(C:/ROS/reactos-0.3.15/drivers/bus/pci/fdo.c:571) Unknown IOCTL 0x9
+(C:/ROS/reactos-0.3.15/drivers/bus/pci/fdo.c:571) Unknown IOCTL 0x14
+(C:/ROS/reactos-0.3.15/ntoskrnl/io/pnpmgr/pnpmgr.c:4030) IRP_MN_QUERY_PNP_DEVICE_STATE failed with status 0xc00000bb
+(C:/ROS/reactos-0.3.15/base/setup/usetup/interface/devinst.c:91) Using driver 'pci.sys' for device 'PCI\VEN_15AD&DEV_07A0&SUBSYS_00000000&REV_01\2&b3ac4ede&B5'
+(C:/ROS/reactos-0.3.15/ntoskrnl/io/pnpmgr/plugplay.c:635) A new driver will be loaded for 'PCI\VEN_15AD&DEV_07A0&SUBSYS_00000000&REV_01\2&b3ac4ede&B5' (no FDO above)
+(C:/ROS/reactos-0.3.15/drivers/bus/pci/pdo.c:1267) Enabling command flags for PCI device 0xb5 on bus 0x0: None
+(C:/ROS/reactos-0.3.15/drivers/bus/pci/fdo.c:571) Unknown IOCTL 0x9
+(C:/ROS/reactos-0.3.15/drivers/bus/pci/fdo.c:571) Unknown IOCTL 0x14
+(C:/ROS/reactos-0.3.15/ntoskrnl/io/pnpmgr/pnpmgr.c:4030) IRP_MN_QUERY_PNP_DEVICE_STATE failed with status 0xc00000bb
+(C:/ROS/reactos-0.3.15/base/setup/usetup/interface/devinst.c:91) Using driver 'pci.sys' for device 'PCI\VEN_15AD&DEV_07A0&SUBSYS_00000000&REV_01\2&b3ac4ede&D5'
+(C:/ROS/reactos-0.3.15/ntoskrnl/io/pnpmgr/plugplay.c:635) A new driver will be loaded for 'PCI\VEN_15AD&DEV_07A0&SUBSYS_00000000&REV_01\2&b3ac4ede&D5' (no FDO above)
+(C:/ROS/reactos-0.3.15/drivers/bus/pci/pdo.c:1267) Enabling command flags for PCI device 0xd5 on bus 0x0: None
+(C:/ROS/reactos-0.3.15/drivers/bus/pci/fdo.c:571) Unknown IOCTL 0x9
+(C:/ROS/reactos-0.3.15/drivers/bus/pci/fdo.c:571) Unknown IOCTL 0x14
+(C:/ROS/reactos-0.3.15/ntoskrnl/io/pnpmgr/pnpmgr.c:4030) IRP_MN_QUERY_PNP_DEVICE_STATE failed with status 0xc00000bb
+(C:/ROS/reactos-0.3.15/base/setup/usetup/interface/devinst.c:91) Using driver 'pci.sys' for device 'PCI\VEN_15AD&DEV_07A0&SUBSYS_00000000&REV_01\2&b3ac4ede&F5'
+(C:/ROS/reactos-0.3.15/ntoskrnl/io/pnpmgr/plugplay.c:635) A new driver will be loaded for 'PCI\VEN_15AD&DEV_07A0&SUBSYS_00000000&REV_01\2&b3ac4ede&F5' (no FDO above)
+(C:/ROS/reactos-0.3.15/drivers/bus/pci/pdo.c:1267) Enabling command flags for PCI device 0xf5 on bus 0x0: None
+(C:/ROS/reactos-0.3.15/drivers/bus/pci/fdo.c:571) Unknown IOCTL 0x9
+(C:/ROS/reactos-0.3.15/drivers/bus/pci/fdo.c:571) Unknown IOCTL 0x14
+(C:/ROS/reactos-0.3.15/ntoskrnl/io/pnpmgr/pnpmgr.c:4030) IRP_MN_QUERY_PNP_DEVICE_STATE failed with status 0xc00000bb
+(C:/ROS/reactos-0.3.15/base/setup/usetup/interface/devinst.c:91) Using driver 'pci.sys' for device 'PCI\VEN_15AD&DEV_07A0&SUBSYS_00000000&REV_01\2&b3ac4ede&16'
+(C:/ROS/reactos-0.3.15/ntoskrnl/io/pnpmgr/plugplay.c:635) A new driver will be loaded for 'PCI\VEN_15AD&DEV_07A0&SUBSYS_00000000&REV_01\2&b3ac4ede&16' (no FDO above)
+(C:/ROS/reactos-0.3.15/drivers/bus/pci/pdo.c:1267) Enabling command flags for PCI device 0x16 on bus 0x0: None
+(C:/ROS/reactos-0.3.15/drivers/bus/pci/fdo.c:571) Unknown IOCTL 0x9
+(C:/ROS/reactos-0.3.15/drivers/bus/pci/fdo.c:571) Unknown IOCTL 0x14
+(C:/ROS/reactos-0.3.15/ntoskrnl/io/pnpmgr/pnpmgr.c:4030) IRP_MN_QUERY_PNP_DEVICE_STATE failed with status 0xc00000bb
+(C:/ROS/reactos-0.3.15/base/setup/usetup/interface/devinst.c:91) Using driver 'pci.sys' for device 'PCI\VEN_15AD&DEV_07A0&SUBSYS_00000000&REV_01\2&b3ac4ede&36'
+(C:/ROS/reactos-0.3.15/ntoskrnl/io/pnpmgr/plugplay.c:635) A new driver will be loaded for 'PCI\VEN_15AD&DEV_07A0&SUBSYS_00000000&REV_01\2&b3ac4ede&36' (no FDO above)
+(C:/ROS/reactos-0.3.15/drivers/bus/pci/pdo.c:1267) Enabling command flags for PCI device 0x36 on bus 0x0: None
+(C:/ROS/reactos-0.3.15/drivers/bus/pci/fdo.c:571) Unknown IOCTL 0x9
+(C:/ROS/reactos-0.3.15/drivers/bus/pci/fdo.c:571) Unknown IOCTL 0x14
+(C:/ROS/reactos-0.3.15/ntoskrnl/io/pnpmgr/pnpmgr.c:4030) IRP_MN_QUERY_PNP_DEVICE_STATE failed with status 0xc00000bb
+(C:/ROS/reactos-0.3.15/base/setup/usetup/interface/devinst.c:91) Using driver 'pci.sys' for device 'PCI\VEN_15AD&DEV_07A0&SUBSYS_00000000&REV_01\2&b3ac4ede&56'
+(C:/ROS/reactos-0.3.15/ntoskrnl/io/pnpmgr/plugplay.c:635) A new driver will be loaded for 'PCI\VEN_15AD&DEV_07A0&SUBSYS_00000000&REV_01\2&b3ac4ede&56' (no FDO above)
+(C:/ROS/reactos-0.3.15/drivers/bus/pci/pdo.c:1267) Enabling command flags for PCI device 0x56 on bus 0x0: None
+(C:/ROS/reactos-0.3.15/drivers/bus/pci/fdo.c:571) Unknown IOCTL 0x9
+(C:/ROS/reactos-0.3.15/drivers/bus/pci/fdo.c:571) Unknown IOCTL 0x14
+(C:/ROS/reactos-0.3.15/ntoskrnl/io/pnpmgr/pnpmgr.c:4030) IRP_MN_QUERY_PNP_DEVICE_STATE failed with status 0xc00000bb
+(C:/ROS/reactos-0.3.15/base/setup/usetup/interface/devinst.c:91) Using driver 'pci.sys' for device 'PCI\VEN_15AD&DEV_07A0&SUBSYS_00000000&REV_01\2&b3ac4ede&76'
+(C:/ROS/reactos-0.3.15/ntoskrnl/io/pnpmgr/plugplay.c:635) A new driver will be loaded for 'PCI\VEN_15AD&DEV_07A0&SUBSYS_00000000&REV_01\2&b3ac4ede&76' (no FDO above)
+(C:/ROS/reactos-0.3.15/drivers/bus/pci/pdo.c:1267) Enabling command flags for PCI device 0x76 on bus 0x0: None
+(C:/ROS/reactos-0.3.15/drivers/bus/pci/fdo.c:571) Unknown IOCTL 0x9
+(C:/ROS/reactos-0.3.15/drivers/bus/pci/fdo.c:571) Unknown IOCTL 0x14
+(C:/ROS/reactos-0.3.15/ntoskrnl/io/pnpmgr/pnpmgr.c:4030) IRP_MN_QUERY_PNP_DEVICE_STATE failed with status 0xc00000bb
+(C:/ROS/reactos-0.3.15/base/setup/usetup/interface/devinst.c:91) Using driver 'pci.sys' for device 'PCI\VEN_15AD&DEV_07A0&SUBSYS_00000000&REV_01\2&b3ac4ede&96'
+(C:/ROS/reactos-0.3.15/ntoskrnl/io/pnpmgr/plugplay.c:635) A new driver will be loaded for 'PCI\VEN_15AD&DEV_07A0&SUBSYS_00000000&REV_01\2&b3ac4ede&96' (no FDO above)
+(C:/ROS/reactos-0.3.15/drivers/bus/pci/pdo.c:1267) Enabling command flags for PCI device 0x96 on bus 0x0: None
+(C:/ROS/reactos-0.3.15/drivers/bus/pci/fdo.c:571) Unknown IOCTL 0x9
+(C:/ROS/reactos-0.3.15/drivers/bus/pci/fdo.c:571) Unknown IOCTL 0x14
+(C:/ROS/reactos-0.3.15/ntoskrnl/io/pnpmgr/pnpmgr.c:4030) IRP_MN_QUERY_PNP_DEVICE_STATE failed with status 0xc00000bb
+(C:/ROS/reactos-0.3.15/base/setup/usetup/interface/devinst.c:91) Using driver 'pci.sys' for device 'PCI\VEN_15AD&DEV_07A0&SUBSYS_00000000&REV_01\2&b3ac4ede&B6'
+(C:/ROS/reactos-0.3.15/ntoskrnl/io/pnpmgr/plugplay.c:635) A new driver will be loaded for 'PCI\VEN_15AD&DEV_07A0&SUBSYS_00000000&REV_01\2&b3ac4ede&B6' (no FDO above)
+(C:/ROS/reactos-0.3.15/drivers/bus/pci/pdo.c:1267) Enabling command flags for PCI device 0xb6 on bus 0x0: None
+(C:/ROS/reactos-0.3.15/drivers/bus/pci/fdo.c:571) Unknown IOCTL 0x9
+(C:/ROS/reactos-0.3.15/drivers/bus/pci/fdo.c:571) Unknown IOCTL 0x14
+(C:/ROS/reactos-0.3.15/ntoskrnl/io/pnpmgr/pnpmgr.c:4030) IRP_MN_QUERY_PNP_DEVICE_STATE failed with status 0xc00000bb
+(C:/ROS/reactos-0.3.15/base/setup/usetup/interface/devinst.c:91) Using driver 'pci.sys' for device 'PCI\VEN_15AD&DEV_07A0&SUBSYS_00000000&REV_01\2&b3ac4ede&D6'
+(C:/ROS/reactos-0.3.15/ntoskrnl/io/pnpmgr/plugplay.c:635) A new driver will be loaded for 'PCI\VEN_15AD&DEV_07A0&SUBSYS_00000000&REV_01\2&b3ac4ede&D6' (no FDO above)
+(C:/ROS/reactos-0.3.15/drivers/bus/pci/pdo.c:1267) Enabling command flags for PCI device 0xd6 on bus 0x0: None
+(C:/ROS/reactos-0.3.15/drivers/bus/pci/fdo.c:571) Unknown IOCTL 0x9
+(C:/ROS/reactos-0.3.15/drivers/bus/pci/fdo.c:571) Unknown IOCTL 0x14
+(C:/ROS/reactos-0.3.15/ntoskrnl/io/pnpmgr/pnpmgr.c:4030) IRP_MN_QUERY_PNP_DEVICE_STATE failed with status 0xc00000bb
+(C:/ROS/reactos-0.3.15/base/setup/usetup/interface/devinst.c:91) Using driver 'pci.sys' for device 'PCI\VEN_15AD&DEV_07A0&SUBSYS_00000000&REV_01\2&b3ac4ede&F6'
+(C:/ROS/reactos-0.3.15/ntoskrnl/io/pnpmgr/plugplay.c:635) A new driver will be loaded for 'PCI\VEN_15AD&DEV_07A0&SUBSYS_00000000&REV_01\2&b3ac4ede&F6' (no FDO above)
+(C:/ROS/reactos-0.3.15/drivers/bus/pci/pdo.c:1267) Enabling command flags for PCI device 0xf6 on bus 0x0: None
+(C:/ROS/reactos-0.3.15/drivers/bus/pci/fdo.c:571) Unknown IOCTL 0x9
+(C:/ROS/reactos-0.3.15/drivers/bus/pci/fdo.c:571) Unknown IOCTL 0x14
+(C:/ROS/reactos-0.3.15/ntoskrnl/io/pnpmgr/pnpmgr.c:4030) IRP_MN_QUERY_PNP_DEVICE_STATE failed with status 0xc00000bb
+(C:/ROS/reactos-0.3.15/base/setup/usetup/interface/devinst.c:91) Using driver 'pci.sys' for device 'PCI\VEN_15AD&DEV_07A0&SUBSYS_00000000&REV_01\2&b3ac4ede&17'
+(C:/ROS/reactos-0.3.15/ntoskrnl/io/pnpmgr/plugplay.c:635) A new driver will be loaded for 'PCI\VEN_15AD&DEV_07A0&SUBSYS_00000000&REV_01\2&b3ac4ede&17' (no FDO above)
+(C:/ROS/reactos-0.3.15/drivers/bus/pci/pdo.c:1267) Enabling command flags for PCI device 0x17 on bus 0x0: None
+(C:/ROS/reactos-0.3.15/drivers/bus/pci/fdo.c:571) Unknown IOCTL 0x9
+(C:/ROS/reactos-0.3.15/drivers/bus/pci/fdo.c:571) Unknown IOCTL 0x14
+(C:/ROS/reactos-0.3.15/ntoskrnl/io/pnpmgr/pnpmgr.c:4030) IRP_MN_QUERY_PNP_DEVICE_STATE failed with status 0xc00000bb
+(C:/ROS/reactos-0.3.15/base/setup/usetup/interface/devinst.c:91) Using driver 'pci.sys' for device 'PCI\VEN_15AD&DEV_07A0&SUBSYS_00000000&REV_01\2&b3ac4ede&37'
+(C:/ROS/reactos-0.3.15/ntoskrnl/io/pnpmgr/plugplay.c:635) A new driver will be loaded for 'PCI\VEN_15AD&DEV_07A0&SUBSYS_00000000&REV_01\2&b3ac4ede&37' (no FDO above)
+(C:/ROS/reactos-0.3.15/drivers/bus/pci/pdo.c:1267) Enabling command flags for PCI device 0x37 on bus 0x0: None
+(C:/ROS/reactos-0.3.15/drivers/bus/pci/fdo.c:571) Unknown IOCTL 0x9
+(C:/ROS/reactos-0.3.15/drivers/bus/pci/fdo.c:571) Unknown IOCTL 0x14
+(C:/ROS/reactos-0.3.15/ntoskrnl/io/pnpmgr/pnpmgr.c:4030) IRP_MN_QUERY_PNP_DEVICE_STATE failed with status 0xc00000bb
+(C:/ROS/reactos-0.3.15/base/setup/usetup/interface/devinst.c:91) Using driver 'pci.sys' for device 'PCI\VEN_15AD&DEV_07A0&SUBSYS_00000000&REV_01\2&b3ac4ede&57'
+(C:/ROS/reactos-0.3.15/ntoskrnl/io/pnpmgr/plugplay.c:635) A new driver will be loaded for 'PCI\VEN_15AD&DEV_07A0&SUBSYS_00000000&REV_01\2&b3ac4ede&57' (no FDO above)
+(C:/ROS/reactos-0.3.15/drivers/bus/pci/pdo.c:1267) Enabling command flags for PCI device 0x57 on bus 0x0: None
+(C:/ROS/reactos-0.3.15/drivers/bus/pci/fdo.c:571) Unknown IOCTL 0x9
+(C:/ROS/reactos-0.3.15/drivers/bus/pci/fdo.c:571) Unknown IOCTL 0x14
+(C:/ROS/reactos-0.3.15/ntoskrnl/io/pnpmgr/pnpmgr.c:4030) IRP_MN_QUERY_PNP_DEVICE_STATE failed with status 0xc00000bb
+(C:/ROS/reactos-0.3.15/base/setup/usetup/interface/devinst.c:91) Using driver 'pci.sys' for device 'PCI\VEN_15AD&DEV_07A0&SUBSYS_00000000&REV_01\2&b3ac4ede&77'
+(C:/ROS/reactos-0.3.15/ntoskrnl/io/pnpmgr/plugplay.c:635) A new driver will be loaded for 'PCI\VEN_15AD&DEV_07A0&SUBSYS_00000000&REV_01\2&b3ac4ede&77' (no FDO above)
+(C:/ROS/reactos-0.3.15/drivers/bus/pci/pdo.c:1267) Enabling command flags for PCI device 0x77 on bus 0x0: None
+(C:/ROS/reactos-0.3.15/drivers/bus/pci/fdo.c:571) Unknown IOCTL 0x9
+(C:/ROS/reactos-0.3.15/drivers/bus/pci/fdo.c:571) Unknown IOCTL 0x14
+(C:/ROS/reactos-0.3.15/ntoskrnl/io/pnpmgr/pnpmgr.c:4030) IRP_MN_QUERY_PNP_DEVICE_STATE failed with status 0xc00000bb
+(C:/ROS/reactos-0.3.15/base/setup/usetup/interface/devinst.c:91) Using driver 'pci.sys' for device 'PCI\VEN_15AD&DEV_07A0&SUBSYS_00000000&REV_01\2&b3ac4ede&97'
+(C:/ROS/reactos-0.3.15/ntoskrnl/io/pnpmgr/plugplay.c:635) A new driver will be loaded for 'PCI\VEN_15AD&DEV_07A0&SUBSYS_00000000&REV_01\2&b3ac4ede&97' (no FDO above)
+(C:/ROS/reactos-0.3.15/drivers/bus/pci/pdo.c:1267) Enabling command flags for PCI device 0x97 on bus 0x0: None
+(C:/ROS/reactos-0.3.15/drivers/bus/pci/fdo.c:571) Unknown IOCTL 0x9
+(C:/ROS/reactos-0.3.15/drivers/bus/pci/fdo.c:571) Unknown IOCTL 0x14
+(C:/ROS/reactos-0.3.15/ntoskrnl/io/pnpmgr/pnpmgr.c:4030) IRP_MN_QUERY_PNP_DEVICE_STATE failed with status 0xc00000bb
+(C:/ROS/reactos-0.3.15/base/setup/usetup/interface/devinst.c:91) Using driver 'pci.sys' for device 'PCI\VEN_15AD&DEV_07A0&SUBSYS_00000000&REV_01\2&b3ac4ede&B7'
+(C:/ROS/reactos-0.3.15/ntoskrnl/io/pnpmgr/plugplay.c:635) A new driver will be loaded for 'PCI\VEN_15AD&DEV_07A0&SUBSYS_00000000&REV_01\2&b3ac4ede&B7' (no FDO above)
+(C:/ROS/reactos-0.3.15/drivers/bus/pci/pdo.c:1267) Enabling command flags for PCI device 0xb7 on bus 0x0: None
+(C:/ROS/reactos-0.3.15/drivers/bus/pci/fdo.c:571) Unknown IOCTL 0x9
+(C:/ROS/reactos-0.3.15/drivers/bus/pci/fdo.c:571) Unknown IOCTL 0x14
+(C:/ROS/reactos-0.3.15/ntoskrnl/io/pnpmgr/pnpmgr.c:4030) IRP_MN_QUERY_PNP_DEVICE_STATE failed with status 0xc00000bb
+(C:/ROS/reactos-0.3.15/base/setup/usetup/interface/devinst.c:91) Using driver 'pci.sys' for device 'PCI\VEN_15AD&DEV_07A0&SUBSYS_00000000&REV_01\2&b3ac4ede&D7'
+(C:/ROS/reactos-0.3.15/ntoskrnl/io/pnpmgr/plugplay.c:635) A new driver will be loaded for 'PCI\VEN_15AD&DEV_07A0&SUBSYS_00000000&REV_01\2&b3ac4ede&D7' (no FDO above)
+(C:/ROS/reactos-0.3.15/drivers/bus/pci/pdo.c:1267) Enabling command flags for PCI device 0xd7 on bus 0x0: None
+(C:/ROS/reactos-0.3.15/drivers/bus/pci/fdo.c:571) Unknown IOCTL 0x9
+(C:/ROS/reactos-0.3.15/drivers/bus/pci/fdo.c:571) Unknown IOCTL 0x14
+(C:/ROS/reactos-0.3.15/ntoskrnl/io/pnpmgr/pnpmgr.c:4030) IRP_MN_QUERY_PNP_DEVICE_STATE failed with status 0xc00000bb
+(C:/ROS/reactos-0.3.15/base/setup/usetup/interface/devinst.c:91) Using driver 'pci.sys' for device 'PCI\VEN_15AD&DEV_07A0&SUBSYS_00000000&REV_01\2&b3ac4ede&F7'
+(C:/ROS/reactos-0.3.15/ntoskrnl/io/pnpmgr/plugplay.c:635) A new driver will be loaded for 'PCI\VEN_15AD&DEV_07A0&SUBSYS_00000000&REV_01\2&b3ac4ede&F7' (no FDO above)
+(C:/ROS/reactos-0.3.15/drivers/bus/pci/pdo.c:1267) Enabling command flags for PCI device 0xf7 on bus 0x0: None
+(C:/ROS/reactos-0.3.15/drivers/bus/pci/fdo.c:571) Unknown IOCTL 0x9
+(C:/ROS/reactos-0.3.15/drivers/bus/pci/fdo.c:571) Unknown IOCTL 0x14
+(C:/ROS/reactos-0.3.15/ntoskrnl/io/pnpmgr/pnpmgr.c:4030) IRP_MN_QUERY_PNP_DEVICE_STATE failed with status 0xc00000bb
+(C:/ROS/reactos-0.3.15/base/setup/usetup/interface/devinst.c:91) Using driver 'pci.sys' for device 'PCI\VEN_15AD&DEV_07A0&SUBSYS_00000000&REV_01\2&b3ac4ede&18'
+(C:/ROS/reactos-0.3.15/ntoskrnl/io/pnpmgr/plugplay.c:635) A new driver will be loaded for 'PCI\VEN_15AD&DEV_07A0&SUBSYS_00000000&REV_01\2&b3ac4ede&18' (no FDO above)
+(C:/ROS/reactos-0.3.15/drivers/bus/pci/pdo.c:1267) Enabling command flags for PCI device 0x18 on bus 0x0: None
+(C:/ROS/reactos-0.3.15/drivers/bus/pci/fdo.c:571) Unknown IOCTL 0x9
+(C:/ROS/reactos-0.3.15/drivers/bus/pci/fdo.c:571) Unknown IOCTL 0x14
+(C:/ROS/reactos-0.3.15/ntoskrnl/io/pnpmgr/pnpmgr.c:4030) IRP_MN_QUERY_PNP_DEVICE_STATE failed with status 0xc00000bb
+(C:/ROS/reactos-0.3.15/base/setup/usetup/interface/devinst.c:91) Using driver 'pci.sys' for device 'PCI\VEN_15AD&DEV_07A0&SUBSYS_00000000&REV_01\2&b3ac4ede&38'
+(C:/ROS/reactos-0.3.15/ntoskrnl/io/pnpmgr/plugplay.c:635) A new driver will be loaded for 'PCI\VEN_15AD&DEV_07A0&SUBSYS_00000000&REV_01\2&b3ac4ede&38' (no FDO above)
+(C:/ROS/reactos-0.3.15/drivers/bus/pci/pdo.c:1267) Enabling command flags for PCI device 0x38 on bus 0x0: None
+(C:/ROS/reactos-0.3.15/drivers/bus/pci/fdo.c:571) Unknown IOCTL 0x9
+(C:/ROS/reactos-0.3.15/drivers/bus/pci/fdo.c:571) Unknown IOCTL 0x14
+(C:/ROS/reactos-0.3.15/ntoskrnl/io/pnpmgr/pnpmgr.c:4030) IRP_MN_QUERY_PNP_DEVICE_STATE failed with status 0xc00000bb
+(C:/ROS/reactos-0.3.15/base/setup/usetup/interface/devinst.c:91) Using driver 'pci.sys' for device 'PCI\VEN_15AD&DEV_07A0&SUBSYS_00000000&REV_01\2&b3ac4ede&58'
+(C:/ROS/reactos-0.3.15/ntoskrnl/io/pnpmgr/plugplay.c:635) A new driver will be loaded for 'PCI\VEN_15AD&DEV_07A0&SUBSYS_00000000&REV_01\2&b3ac4ede&58' (no FDO above)
+(C:/ROS/reactos-0.3.15/drivers/bus/pci/pdo.c:1267) Enabling command flags for PCI device 0x58 on bus 0x0: None
+(C:/ROS/reactos-0.3.15/drivers/bus/pci/fdo.c:571) Unknown IOCTL 0x9
+(C:/ROS/reactos-0.3.15/drivers/bus/pci/fdo.c:571) Unknown IOCTL 0x14
+(C:/ROS/reactos-0.3.15/ntoskrnl/io/pnpmgr/pnpmgr.c:4030) IRP_MN_QUERY_PNP_DEVICE_STATE failed with status 0xc00000bb
+(C:/ROS/reactos-0.3.15/base/setup/usetup/interface/devinst.c:91) Using driver 'pci.sys' for device 'PCI\VEN_15AD&DEV_07A0&SUBSYS_00000000&REV_01\2&b3ac4ede&78'
+(C:/ROS/reactos-0.3.15/ntoskrnl/io/pnpmgr/plugplay.c:635) A new driver will be loaded for 'PCI\VEN_15AD&DEV_07A0&SUBSYS_00000000&REV_01\2&b3ac4ede&78' (no FDO above)
+(C:/ROS/reactos-0.3.15/drivers/bus/pci/pdo.c:1267) Enabling command flags for PCI device 0x78 on bus 0x0: None
+(C:/ROS/reactos-0.3.15/drivers/bus/pci/fdo.c:571) Unknown IOCTL 0x9
+(C:/ROS/reactos-0.3.15/drivers/bus/pci/fdo.c:571) Unknown IOCTL 0x14
+(C:/ROS/reactos-0.3.15/ntoskrnl/io/pnpmgr/pnpmgr.c:4030) IRP_MN_QUERY_PNP_DEVICE_STATE failed with status 0xc00000bb
+(C:/ROS/reactos-0.3.15/base/setup/usetup/interface/devinst.c:91) Using driver 'pci.sys' for device 'PCI\VEN_15AD&DEV_07A0&SUBSYS_00000000&REV_01\2&b3ac4ede&98'
+(C:/ROS/reactos-0.3.15/ntoskrnl/io/pnpmgr/plugplay.c:635) A new driver will be loaded for 'PCI\VEN_15AD&DEV_07A0&SUBSYS_00000000&REV_01\2&b3ac4ede&98' (no FDO above)
+(C:/ROS/reactos-0.3.15/drivers/bus/pci/pdo.c:1267) Enabling command flags for PCI device 0x98 on bus 0x0: None
+(C:/ROS/reactos-0.3.15/drivers/bus/pci/fdo.c:571) Unknown IOCTL 0x9
+(C:/ROS/reactos-0.3.15/drivers/bus/pci/fdo.c:571) Unknown IOCTL 0x14
+(C:/ROS/reactos-0.3.15/ntoskrnl/io/pnpmgr/pnpmgr.c:4030) IRP_MN_QUERY_PNP_DEVICE_STATE failed with status 0xc00000bb
+(C:/ROS/reactos-0.3.15/base/setup/usetup/interface/devinst.c:91) Using driver 'pci.sys' for device 'PCI\VEN_15AD&DEV_07A0&SUBSYS_00000000&REV_01\2&b3ac4ede&B8'
+(C:/ROS/reactos-0.3.15/ntoskrnl/io/pnpmgr/plugplay.c:635) A new driver will be loaded for 'PCI\VEN_15AD&DEV_07A0&SUBSYS_00000000&REV_01\2&b3ac4ede&B8' (no FDO above)
+(C:/ROS/reactos-0.3.15/drivers/bus/pci/pdo.c:1267) Enabling command flags for PCI device 0xb8 on bus 0x0: None
+(C:/ROS/reactos-0.3.15/drivers/bus/pci/fdo.c:571) Unknown IOCTL 0x9
+(C:/ROS/reactos-0.3.15/drivers/bus/pci/fdo.c:571) Unknown IOCTL 0x14
+(C:/ROS/reactos-0.3.15/ntoskrnl/io/pnpmgr/pnpmgr.c:4030) IRP_MN_QUERY_PNP_DEVICE_STATE failed with status 0xc00000bb
+(C:/ROS/reactos-0.3.15/base/setup/usetup/interface/devinst.c:91) Using driver 'pci.sys' for device 'PCI\VEN_15AD&DEV_07A0&SUBSYS_00000000&REV_01\2&b3ac4ede&D8'
+(C:/ROS/reactos-0.3.15/ntoskrnl/io/pnpmgr/plugplay.c:635) A new driver will be loaded for 'PCI\VEN_15AD&DEV_07A0&SUBSYS_00000000&REV_01\2&b3ac4ede&D8' (no FDO above)
+(C:/ROS/reactos-0.3.15/drivers/bus/pci/pdo.c:1267) Enabling command flags for PCI device 0xd8 on bus 0x0: None
+(C:/ROS/reactos-0.3.15/drivers/bus/pci/fdo.c:571) Unknown IOCTL 0x9
+(C:/ROS/reactos-0.3.15/drivers/bus/pci/fdo.c:571) Unknown IOCTL 0x14
+(C:/ROS/reactos-0.3.15/ntoskrnl/io/pnpmgr/pnpmgr.c:4030) IRP_MN_QUERY_PNP_DEVICE_STATE failed with status 0xc00000bb
+(C:/ROS/reactos-0.3.15/base/setup/usetup/interface/devinst.c:91) Using driver 'pci.sys' for device 'PCI\VEN_15AD&DEV_07A0&SUBSYS_00000000&REV_01\2&b3ac4ede&F8'
+(C:/ROS/reactos-0.3.15/ntoskrnl/io/pnpmgr/plugplay.c:635) A new driver will be loaded for 'PCI\VEN_15AD&DEV_07A0&SUBSYS_00000000&REV_01\2&b3ac4ede&F8' (no FDO above)
+(C:/ROS/reactos-0.3.15/drivers/bus/pci/pdo.c:1267) Enabling command flags for PCI device 0xf8 on bus 0x0: None
+(C:/ROS/reactos-0.3.15/drivers/bus/pci/fdo.c:571) Unknown IOCTL 0x9
+(C:/ROS/reactos-0.3.15/drivers/bus/pci/fdo.c:571) Unknown IOCTL 0x14
+(C:/ROS/reactos-0.3.15/ntoskrnl/io/pnpmgr/pnpmgr.c:4030) IRP_MN_QUERY_PNP_DEVICE_STATE failed with status 0xc00000bb
+(C:/ROS/reactos-0.3.15/base/setup/usetup/interface/devinst.c:91) Using driver 'uniata.sys' for device 'PCIIDE\IDEChannel\3&66e1b47b&0'
+(C:/ROS/reactos-0.3.15/ntoskrnl/io/pnpmgr/plugplay.c:635) A new driver will be loaded for 'PCIIDE\IDEChannel\3&66e1b47b&0' (no FDO above)
+(C:/ROS/reactos-0.3.15/base/setup/usetup/interface/devinst.c:91) Using driver 'uniata.sys' for device 'PCIIDE\IDEChannel\3&66e1b47b&1'
+(C:/ROS/reactos-0.3.15/ntoskrnl/io/pnpmgr/plugplay.c:635) A new driver will be loaded for 'PCIIDE\IDEChannel\3&66e1b47b&1' (no FDO above)
+(C:/ROS/reactos-0.3.15/ntoskrnl/ex/init.c:2001) Free non-cache pages: 1e0d5
+(C:/ROS/reactos-0.3.15/ntoskrnl/mm/ARM3/zeropage.c:50) Free non-cache pages: 1e30b
+(C:/ROS/reactos-0.3.15/ntoskrnl/io/iomgr/file.c:438) Using IopParseDevice() hack. Requested invalid attributes: 1
+(C:/ROS/reactos-0.3.15/ntoskrnl/fstub/disksup.c:1514) FSTUB: (IoReadPartitionTable) No 0xaa55 found in partition table 0
+(C:/ROS/reactos-0.3.15/ntoskrnl/io/iomgr/file.c:438) Using IopParseDevice() hack. Requested invalid attributes: 1017f
+(C:/ROS/reactos-0.3.15/ntoskrnl/io/iomgr/file.c:438) Using IopParseDevice() hack. Requested invalid attributes: 11f
+(C:/ROS/reactos-0.3.15/lib/fslib/vfatlib/vfatlib.c:210) WARNING: Failed to lock volume for formatting! Format may fail! (Status: 0xc0000010)
+(C:/ROS/reactos-0.3.15/lib/fslib/vfatlib/vfatlib.c:266) Failed to unlock volume (Status: 0xc0000010)
+(C:/ROS/reactos-0.3.15/base/setup/usetup/interface/usetup.c:3104) CHECKPOINT:HALF_COPIED
+Boot took 702168295335 cycles!
+Interrupts: 31903 System Calls: 49121 Context Switches: 7741
+(C:/ROS/reactos-0.3.15/ntoskrnl/io/iomgr/file.c:438) Using IopParseDevice() hack. Requested invalid attributes: 1017f
+(C:/ROS/reactos-0.3.15/base/setup/usetup/bootsup.c:2237) No or unknown boot loader found
+(C:/ROS/reactos-0.3.15/ntoskrnl/io/iomgr/file.c:438) Using IopParseDevice() hack. Requested invalid attributes: 9
+(C:/ROS/reactos-0.3.15/ntoskrnl/io/iomgr/file.c:438) Using IopParseDevice() hack. Requested invalid attributes: 9
+(C:/ROS/reactos-0.3.15/ntoskrnl/io/iomgr/file.c:438) Using IopParseDevice() hack. Requested invalid attributes: 116
+(C:/ROS/reactos-0.3.15/ntoskrnl/io/iomgr/file.c:438) Using IopParseDevice() hack. Requested invalid attributes: 9
+(C:/ROS/reactos-0.3.15/ntoskrnl/io/iomgr/file.c:438) Using IopParseDevice() hack. Requested invalid attributes: 116
+(C:/ROS/reactos-0.3.15/ntoskrnl/ex/shutdown.c:45) Setting state to: 5
+(C:/ROS/reactos-0.3.15/ntoskrnl/po/power.c:853) ERROR: Privilege not held for shutdown
+(C:/ROS/reactos-0.3.15/ntoskrnl/po/power.c:865) Stopping lazy flush
+(C:/ROS/reactos-0.3.15/ntoskrnl/po/power.c:873) Notifying callbacks
+(C:/ROS/reactos-0.3.15/ntoskrnl/po/power.c:877) Swapping worker threads
+(C:/ROS/reactos-0.3.15/ntoskrnl/po/power.c:917) Flushing volumes, cache flushed 320 pages
+(C:/ROS/reactos-0.3.15/ntoskrnl/po/povolume.c:250) Opening registry
+(C:/ROS/reactos-0.3.15/ntoskrnl/po/povolume.c:260) Flushing registry
+WARNING:  HvpWriteLog at C:/ROS/reactos-0.3.15/lib/cmlib/hivewrt.c:26 is UNIMPLEMENTED!
+WARNING:  HvpWriteLog at C:/ROS/reactos-0.3.15/lib/cmlib/hivewrt.c:26 is UNIMPLEMENTED!
+WARNING:  HvpWriteLog at C:/ROS/reactos-0.3.15/lib/cmlib/hivewrt.c:26 is UNIMPLEMENTED!
+WARNING:  HvpWriteLog at C:/ROS/reactos-0.3.15/lib/cmlib/hivewrt.c:26 is UNIMPLEMENTED!
+WARNING:  HvpWriteLog at C:/ROS/reactos-0.3.15/lib/cmlib/hivewrt.c:26 is UNIMPLEMENTED!
+WARNING:  HvpWriteLog at C:/ROS/reactos-0.3.15/lib/cmlib/hivewrt.c:26 is UNIMPLEMENTED!
+WARNING:  HvpWriteLog at C:/ROS/reactos-0.3.15/lib/cmlib/hivewrt.c:26 is UNIMPLEMENTED!
+(C:/ROS/reactos-0.3.15/ntoskrnl/po/povolume.c:350) Local flush
+(C:/ROS/reactos-0.3.15/ntoskrnl/po/povolume.c:188) Opening: \Device\Harddisk0\Partition1
+(C:/ROS/reactos-0.3.15/ntoskrnl/io/iomgr/file.c:438) Using IopParseDevice() hack. Requested invalid attributes: 3
+(C:/ROS/reactos-0.3.15/ntoskrnl/po/povolume.c:208) Sending flush to: 800001ac
+(C:/ROS/reactos-0.3.15/ntoskrnl/po/povolume.c:354) Waiting for flushes
+(C:/ROS/reactos-0.3.15/ntoskrnl/po/povolume.c:356) Flushes have completed
+(C:/ROS/reactos-0.3.15/ntoskrnl/po/power.c:924) Queueing shutdown thread
+(C:/ROS/reactos-0.3.15/ntoskrnl/po/poshtdwn.c:135)        smss.exe is still RUNNING (48)
+(C:/ROS/reactos-0.3.15/ntoskrnl/po/poshtdwn.c:143) HAL shutting down
+(C:/ROS/reactos-0.3.15/ntoskrnl/po/poshtdwn.c:147) I/O manager shutting down in phase 0
+(C:/ROS/reactos-0.3.15/ntoskrnl/po/poshtdwn.c:151) Configuration Manager shutting down
+WARNING:  HvpWriteLog at C:/ROS/reactos-0.3.15/lib/cmlib/hivewrt.c:26 is UNIMPLEMENTED!
+WARNING:  HvpWriteLog at C:/ROS/reactos-0.3.15/lib/cmlib/hivewrt.c:26 is UNIMPLEMENTED!
+(C:/ROS/reactos-0.3.15/ntoskrnl/po/poshtdwn.c:162) I/O manager shutting down in phase 1
+WARNING:  CcWaitForCurrentLazyWriterActivity at C:/ROS/reactos-0.3.15/ntoskrnl/cc/copy.c:604 is UNIMPLEMENTED!
+(C:/ROS/reactos-0.3.15/ntoskrnl/po/poshtdwn.c:169) Disabling wake timers
+(C:/ROS/reactos-0.3.15/ntoskrnl/po/poshtdwn.c:173) Taking the system down
+(C:/ROS/reactos-0.3.15/ntoskrnl/po/poshtdwn.c:73) It's the final countdown...5
+(C:/ROS/reactos-0.3.15/ntoskrnl/po/power.c:235) No system power driver available
+(C:/ROS/reactos-0.3.15/hal/halx86/legacy/halpnpdd.c:823) HAL: PnP Driver Power!
+(C:/ROS/reactos-0.3.15/ntoskrnl/po/power.c:179) Device 'PCI\VEN_8086&DEV_7190&SUBSYS_197615AD&REV_01\2&b3ac4ede&00' failed IRP_MN_QUERY_POWER
+(C:/ROS/reactos-0.3.15/ntoskrnl/po/power.c:179) Device 'PCI\VEN_8086&DEV_7191&SUBSYS_00000000&REV_01\2&b3ac4ede&01' failed IRP_MN_QUERY_POWER
+(C:/ROS/reactos-0.3.15/ntoskrnl/po/power.c:179) Device 'PCI\VEN_8086&DEV_7110&SUBSYS_197615AD&REV_08\2&b3ac4ede&07' failed IRP_MN_QUERY_POWER
+(C:/ROS/reactos-0.3.15/ntoskrnl/po/power.c:179) Device 'PCI\VEN_8086&DEV_7111&SUBSYS_197615AD&REV_01\2&b3ac4ede&27' failed IRP_MN_QUERY_POWER
+(C:/ROS/reactos-0.3.15/ntoskrnl/po/power.c:179) Device 'PCI\VEN_8086&DEV_7113&SUBSYS_197615AD&REV_08\2&b3ac4ede&67' failed IRP_MN_QUERY_POWER
+(C:/ROS/reactos-0.3.15/ntoskrnl/po/power.c:179) Device 'PCI\VEN_15AD&DEV_0740&SUBSYS_074015AD&REV_10\2&b3ac4ede&E7' failed IRP_MN_QUERY_POWER
+(C:/ROS/reactos-0.3.15/ntoskrnl/po/power.c:179) Device 'PCI\VEN_15AD&DEV_0405&SUBSYS_040515AD&REV_00\2&b3ac4ede&0F' failed IRP_MN_QUERY_POWER
+(C:/ROS/reactos-0.3.15/ntoskrnl/po/power.c:179) Device 'PCI\VEN_15AD&DEV_0790&SUBSYS_00000000&REV_02\2&b3ac4ede&11' failed IRP_MN_QUERY_POWER
+(C:/ROS/reactos-0.3.15/ntoskrnl/po/power.c:179) Device 'PCI\VEN_1022&DEV_2000&SUBSYS_20001022&REV_10\3&1464aefe&00' failed IRP_MN_QUERY_POWER
+(C:/ROS/reactos-0.3.15/ntoskrnl/po/power.c:179) Device 'PCI\VEN_1274&DEV_1371&SUBSYS_13711274&REV_02\3&1464aefe&01' failed IRP_MN_QUERY_POWER
+(C:/ROS/reactos-0.3.15/ntoskrnl/po/power.c:179) Device 'PCI\VEN_15AD&DEV_07A0&SUBSYS_00000000&REV_01\2&b3ac4ede&15' failed IRP_MN_QUERY_POWER
+(C:/ROS/reactos-0.3.15/ntoskrnl/po/power.c:179) Device 'PCI\VEN_15AD&DEV_07A0&SUBSYS_00000000&REV_01\2&b3ac4ede&35' failed IRP_MN_QUERY_POWER
+(C:/ROS/reactos-0.3.15/ntoskrnl/po/power.c:179) Device 'PCI\VEN_15AD&DEV_07A0&SUBSYS_00000000&REV_01\2&b3ac4ede&55' failed IRP_MN_QUERY_POWER
+(C:/ROS/reactos-0.3.15/ntoskrnl/po/power.c:179) Device 'PCI\VEN_15AD&DEV_07A0&SUBSYS_00000000&REV_01\2&b3ac4ede&75' failed IRP_MN_QUERY_POWER
+(C:/ROS/reactos-0.3.15/ntoskrnl/po/power.c:179) Device 'PCI\VEN_15AD&DEV_07A0&SUBSYS_00000000&REV_01\2&b3ac4ede&95' failed IRP_MN_QUERY_POWER
+(C:/ROS/reactos-0.3.15/ntoskrnl/po/power.c:179) Device 'PCI\VEN_15AD&DEV_07A0&SUBSYS_00000000&REV_01\2&b3ac4ede&B5' failed IRP_MN_QUERY_POWER
+(C:/ROS/reactos-0.3.15/ntoskrnl/po/power.c:179) Device 'PCI\VEN_15AD&DEV_07A0&SUBSYS_00000000&REV_01\2&b3ac4ede&D5' failed IRP_MN_QUERY_POWER
+(C:/ROS/reactos-0.3.15/ntoskrnl/po/power.c:179) Device 'PCI\VEN_15AD&DEV_07A0&SUBSYS_00000000&REV_01\2&b3ac4ede&F5' failed IRP_MN_QUERY_POWER
+(C:/ROS/reactos-0.3.15/ntoskrnl/po/power.c:179) Device 'PCI\VEN_15AD&DEV_07A0&SUBSYS_00000000&REV_01\2&b3ac4ede&16' failed IRP_MN_QUERY_POWER
+(C:/ROS/reactos-0.3.15/ntoskrnl/po/power.c:179) Device 'PCI\VEN_15AD&DEV_07A0&SUBSYS_00000000&REV_01\2&b3ac4ede&36' failed IRP_MN_QUERY_POWER
+(C:/ROS/reactos-0.3.15/ntoskrnl/po/power.c:179) Device 'PCI\VEN_15AD&DEV_07A0&SUBSYS_00000000&REV_01\2&b3ac4ede&56' failed IRP_MN_QUERY_POWER
+(C:/ROS/reactos-0.3.15/ntoskrnl/po/power.c:179) Device 'PCI\VEN_15AD&DEV_07A0&SUBSYS_00000000&REV_01\2&b3ac4ede&76' failed IRP_MN_QUERY_POWER
+(C:/ROS/reactos-0.3.15/ntoskrnl/po/power.c:179) Device 'PCI\VEN_15AD&DEV_07A0&SUBSYS_00000000&REV_01\2&b3ac4ede&96' failed IRP_MN_QUERY_POWER
+(C:/ROS/reactos-0.3.15/ntoskrnl/po/power.c:179) Device 'PCI\VEN_15AD&DEV_07A0&SUBSYS_00000000&REV_01\2&b3ac4ede&B6' failed IRP_MN_QUERY_POWER
+(C:/ROS/reactos-0.3.15/ntoskrnl/po/power.c:179) Device 'PCI\VEN_15AD&DEV_07A0&SUBSYS_00000000&REV_01\2&b3ac4ede&D6' failed IRP_MN_QUERY_POWER
+(C:/ROS/reactos-0.3.15/ntoskrnl/po/power.c:179) Device 'PCI\VEN_15AD&DEV_07A0&SUBSYS_00000000&REV_01\2&b3ac4ede&F6' failed IRP_MN_QUERY_POWER
+(C:/ROS/reactos-0.3.15/ntoskrnl/po/power.c:179) Device 'PCI\VEN_15AD&DEV_07A0&SUBSYS_00000000&REV_01\2&b3ac4ede&17' failed IRP_MN_QUERY_POWER
+(C:/ROS/reactos-0.3.15/ntoskrnl/po/power.c:179) Device 'PCI\VEN_15AD&DEV_07A0&SUBSYS_00000000&REV_01\2&b3ac4ede&37' failed IRP_MN_QUERY_POWER
+(C:/ROS/reactos-0.3.15/ntoskrnl/po/power.c:179) Device 'PCI\VEN_15AD&DEV_07A0&SUBSYS_00000000&REV_01\2&b3ac4ede&57' failed IRP_MN_QUERY_POWER
+(C:/ROS/reactos-0.3.15/ntoskrnl/po/power.c:179) Device 'PCI\VEN_15AD&DEV_07A0&SUBSYS_00000000&REV_01\2&b3ac4ede&77' failed IRP_MN_QUERY_POWER
+(C:/ROS/reactos-0.3.15/ntoskrnl/po/power.c:179) Device 'PCI\VEN_15AD&DEV_07A0&SUBSYS_00000000&REV_01\2&b3ac4ede&97' failed IRP_MN_QUERY_POWER
+(C:/ROS/reactos-0.3.15/ntoskrnl/po/power.c:179) Device 'PCI\VEN_15AD&DEV_07A0&SUBSYS_00000000&REV_01\2&b3ac4ede&B7' failed IRP_MN_QUERY_POWER
+(C:/ROS/reactos-0.3.15/ntoskrnl/po/power.c:179) Device 'PCI\VEN_15AD&DEV_07A0&SUBSYS_00000000&REV_01\2&b3ac4ede&D7' failed IRP_MN_QUERY_POWER
+(C:/ROS/reactos-0.3.15/ntoskrnl/po/power.c:179) Device 'PCI\VEN_15AD&DEV_07A0&SUBSYS_00000000&REV_01\2&b3ac4ede&F7' failed IRP_MN_QUERY_POWER
+(C:/ROS/reactos-0.3.15/ntoskrnl/po/power.c:179) Device 'PCI\VEN_15AD&DEV_07A0&SUBSYS_00000000&REV_01\2&b3ac4ede&18' failed IRP_MN_QUERY_POWER
+(C:/ROS/reactos-0.3.15/ntoskrnl/po/power.c:179) Device 'PCI\VEN_15AD&DEV_07A0&SUBSYS_00000000&REV_01\2&b3ac4ede&38' failed IRP_MN_QUERY_POWER
+(C:/ROS/reactos-0.3.15/ntoskrnl/po/power.c:179) Device 'PCI\VEN_15AD&DEV_07A0&SUBSYS_00000000&REV_01\2&b3ac4ede&58' failed IRP_MN_QUERY_POWER
+(C:/ROS/reactos-0.3.15/ntoskrnl/po/power.c:179) Device 'PCI\VEN_15AD&DEV_07A0&SUBSYS_00000000&REV_01\2&b3ac4ede&78' failed IRP_MN_QUERY_POWER
+(C:/ROS/reactos-0.3.15/ntoskrnl/po/power.c:179) Device 'PCI\VEN_15AD&DEV_07A0&SUBSYS_00000000&REV_01\2&b3ac4ede&98' failed IRP_MN_QUERY_POWER
+(C:/ROS/reactos-0.3.15/ntoskrnl/po/power.c:179) Device 'PCI\VEN_15AD&DEV_07A0&SUBSYS_00000000&REV_01\2&b3ac4ede&B8' failed IRP_MN_QUERY_POWER
+(C:/ROS/reactos-0.3.15/ntoskrnl/po/power.c:179) Device 'PCI\VEN_15AD&DEV_07A0&SUBSYS_00000000&REV_01\2&b3ac4ede&D8' failed IRP_MN_QUERY_POWER
+(C:/ROS/reactos-0.3.15/ntoskrnl/po/power.c:179) Device 'PCI\VEN_15AD&DEV_07A0&SUBSYS_00000000&REV_01\2&b3ac4ede&F8' failed IRP_MN_QUERY_POWER
+(C:/ROS/reactos-0.3.15/ntoskrnl/po/power.c:179) Device 'Root\*PNP0303\0000' failed IRP_MN_QUERY_POWER
+(C:/ROS/reactos-0.3.15/ntoskrnl/po/power.c:179) Device 'Root\*PNP0501\0000' failed IRP_MN_QUERY_POWER
+(C:/ROS/reactos-0.3.15/ntoskrnl/po/power.c:179) Device 'Root\*PNP0501\0001' failed IRP_MN_QUERY_POWER
+(C:/ROS/reactos-0.3.15/ntoskrnl/po/power.c:179) Device 'Root\*PNP0400\0000' failed IRP_MN_QUERY_POWER
+(C:/ROS/reactos-0.3.15/ntoskrnl/po/power.c:179) Device 'Root\*PNP0700\0000' failed IRP_MN_QUERY_POWER
+(C:/ROS/reactos-0.3.15/ntoskrnl/po/power.c:179) Device 'Root\*PNP0F13\0000' failed IRP_MN_QUERY_POWER
+(C:/ROS/reactos-0.3.15/hal/halx86/legacy/halpnpdd.c:823) HAL: PnP Driver Power!
+(C:/ROS/reactos-0.3.15/ntoskrnl/po/power.c:212) Device 'PCI\VEN_8086&DEV_7190&SUBSYS_197615AD&REV_01\2&b3ac4ede&00' failed IRP_MN_SET_POWER
+(C:/ROS/reactos-0.3.15/ntoskrnl/po/power.c:212) Device 'PCI\VEN_8086&DEV_7191&SUBSYS_00000000&REV_01\2&b3ac4ede&01' failed IRP_MN_SET_POWER
+(C:/ROS/reactos-0.3.15/ntoskrnl/po/power.c:212) Device 'PCI\VEN_8086&DEV_7110&SUBSYS_197615AD&REV_08\2&b3ac4ede&07' failed IRP_MN_SET_POWER
+(C:/ROS/reactos-0.3.15/ntoskrnl/po/power.c:212) Device 'PCI\VEN_8086&DEV_7111&SUBSYS_197615AD&REV_01\2&b3ac4ede&27' failed IRP_MN_SET_POWER
+(C:/ROS/reactos-0.3.15/ntoskrnl/po/power.c:212) Device 'PCI\VEN_8086&DEV_7113&SUBSYS_197615AD&REV_08\2&b3ac4ede&67' failed IRP_MN_SET_POWER
+(C:/ROS/reactos-0.3.15/ntoskrnl/po/power.c:212) Device 'PCI\VEN_15AD&DEV_0740&SUBSYS_074015AD&REV_10\2&b3ac4ede&E7' failed IRP_MN_SET_POWER
+(C:/ROS/reactos-0.3.15/ntoskrnl/po/power.c:212) Device 'PCI\VEN_15AD&DEV_0405&SUBSYS_040515AD&REV_00\2&b3ac4ede&0F' failed IRP_MN_SET_POWER
+(C:/ROS/reactos-0.3.15/ntoskrnl/po/power.c:212) Device 'PCI\VEN_15AD&DEV_0790&SUBSYS_00000000&REV_02\2&b3ac4ede&11' failed IRP_MN_SET_POWER
+(C:/ROS/reactos-0.3.15/ntoskrnl/po/power.c:212) Device 'PCI\VEN_1022&DEV_2000&SUBSYS_20001022&REV_10\3&1464aefe&00' failed IRP_MN_SET_POWER
+(C:/ROS/reactos-0.3.15/ntoskrnl/po/power.c:212) Device 'PCI\VEN_1274&DEV_1371&SUBSYS_13711274&REV_02\3&1464aefe&01' failed IRP_MN_SET_POWER
+(C:/ROS/reactos-0.3.15/ntoskrnl/po/power.c:212) Device 'PCI\VEN_15AD&DEV_07A0&SUBSYS_00000000&REV_01\2&b3ac4ede&15' failed IRP_MN_SET_POWER
+(C:/ROS/reactos-0.3.15/ntoskrnl/po/power.c:212) Device 'PCI\VEN_15AD&DEV_07A0&SUBSYS_00000000&REV_01\2&b3ac4ede&35' failed IRP_MN_SET_POWER
+(C:/ROS/reactos-0.3.15/ntoskrnl/po/power.c:212) Device 'PCI\VEN_15AD&DEV_07A0&SUBSYS_00000000&REV_01\2&b3ac4ede&55' failed IRP_MN_SET_POWER
+(C:/ROS/reactos-0.3.15/ntoskrnl/po/power.c:212) Device 'PCI\VEN_15AD&DEV_07A0&SUBSYS_00000000&REV_01\2&b3ac4ede&75' failed IRP_MN_SET_POWER
+(C:/ROS/reactos-0.3.15/ntoskrnl/po/power.c:212) Device 'PCI\VEN_15AD&DEV_07A0&SUBSYS_00000000&REV_01\2&b3ac4ede&95' failed IRP_MN_SET_POWER
+(C:/ROS/reactos-0.3.15/ntoskrnl/po/power.c:212) Device 'PCI\VEN_15AD&DEV_07A0&SUBSYS_00000000&REV_01\2&b3ac4ede&B5' failed IRP_MN_SET_POWER
+(C:/ROS/reactos-0.3.15/ntoskrnl/po/power.c:212) Device 'PCI\VEN_15AD&DEV_07A0&SUBSYS_00000000&REV_01\2&b3ac4ede&D5' failed IRP_MN_SET_POWER
+(C:/ROS/reactos-0.3.15/ntoskrnl/po/power.c:212) Device 'PCI\VEN_15AD&DEV_07A0&SUBSYS_00000000&REV_01\2&b3ac4ede&F5' failed IRP_MN_SET_POWER
+(C:/ROS/reactos-0.3.15/ntoskrnl/po/power.c:212) Device 'PCI\VEN_15AD&DEV_07A0&SUBSYS_00000000&REV_01\2&b3ac4ede&16' failed IRP_MN_SET_POWER
+(C:/ROS/reactos-0.3.15/ntoskrnl/po/power.c:212) Device 'PCI\VEN_15AD&DEV_07A0&SUBSYS_00000000&REV_01\2&b3ac4ede&36' failed IRP_MN_SET_POWER
+(C:/ROS/reactos-0.3.15/ntoskrnl/po/power.c:212) Device 'PCI\VEN_15AD&DEV_07A0&SUBSYS_00000000&REV_01\2&b3ac4ede&56' failed IRP_MN_SET_POWER
+(C:/ROS/reactos-0.3.15/ntoskrnl/po/power.c:212) Device 'PCI\VEN_15AD&DEV_07A0&SUBSYS_00000000&REV_01\2&b3ac4ede&76' failed IRP_MN_SET_POWER
+(C:/ROS/reactos-0.3.15/ntoskrnl/po/power.c:212) Device 'PCI\VEN_15AD&DEV_07A0&SUBSYS_00000000&REV_01\2&b3ac4ede&96' failed IRP_MN_SET_POWER
+(C:/ROS/reactos-0.3.15/ntoskrnl/po/power.c:212) Device 'PCI\VEN_15AD&DEV_07A0&SUBSYS_00000000&REV_01\2&b3ac4ede&B6' failed IRP_MN_SET_POWER
+(C:/ROS/reactos-0.3.15/ntoskrnl/po/power.c:212) Device 'PCI\VEN_15AD&DEV_07A0&SUBSYS_00000000&REV_01\2&b3ac4ede&D6' failed IRP_MN_SET_POWER
+(C:/ROS/reactos-0.3.15/ntoskrnl/po/power.c:212) Device 'PCI\VEN_15AD&DEV_07A0&SUBSYS_00000000&REV_01\2&b3ac4ede&F6' failed IRP_MN_SET_POWER
+(C:/ROS/reactos-0.3.15/ntoskrnl/po/power.c:212) Device 'PCI\VEN_15AD&DEV_07A0&SUBSYS_00000000&REV_01\2&b3ac4ede&17' failed IRP_MN_SET_POWER
+(C:/ROS/reactos-0.3.15/ntoskrnl/po/power.c:212) Device 'PCI\VEN_15AD&DEV_07A0&SUBSYS_00000000&REV_01\2&b3ac4ede&37' failed IRP_MN_SET_POWER
+(C:/ROS/reactos-0.3.15/ntoskrnl/po/power.c:212) Device 'PCI\VEN_15AD&DEV_07A0&SUBSYS_00000000&REV_01\2&b3ac4ede&57' failed IRP_MN_SET_POWER
+(C:/ROS/reactos-0.3.15/ntoskrnl/po/power.c:212) Device 'PCI\VEN_15AD&DEV_07A0&SUBSYS_00000000&REV_01\2&b3ac4ede&77' failed IRP_MN_SET_POWER
+(C:/ROS/reactos-0.3.15/ntoskrnl/po/power.c:212) Device 'PCI\VEN_15AD&DEV_07A0&SUBSYS_00000000&REV_01\2&b3ac4ede&97' failed IRP_MN_SET_POWER
+(C:/ROS/reactos-0.3.15/ntoskrnl/po/power.c:212) Device 'PCI\VEN_15AD&DEV_07A0&SUBSYS_00000000&REV_01\2&b3ac4ede&B7' failed IRP_MN_SET_POWER
+(C:/ROS/reactos-0.3.15/ntoskrnl/po/power.c:212) Device 'PCI\VEN_15AD&DEV_07A0&SUBSYS_00000000&REV_01\2&b3ac4ede&D7' failed IRP_MN_SET_POWER
+(C:/ROS/reactos-0.3.15/ntoskrnl/po/power.c:212) Device 'PCI\VEN_15AD&DEV_07A0&SUBSYS_00000000&REV_01\2&b3ac4ede&F7' failed IRP_MN_SET_POWER
+(C:/ROS/reactos-0.3.15/ntoskrnl/po/power.c:212) Device 'PCI\VEN_15AD&DEV_07A0&SUBSYS_00000000&REV_01\2&b3ac4ede&18' failed IRP_MN_SET_POWER
+(C:/ROS/reactos-0.3.15/ntoskrnl/po/power.c:212) Device 'PCI\VEN_15AD&DEV_07A0&SUBSYS_00000000&REV_01\2&b3ac4ede&38' failed IRP_MN_SET_POWER
+(C:/ROS/reactos-0.3.15/ntoskrnl/po/power.c:212) Device 'PCI\VEN_15AD&DEV_07A0&SUBSYS_00000000&REV_01\2&b3ac4ede&58' failed IRP_MN_SET_POWER
+(C:/ROS/reactos-0.3.15/ntoskrnl/po/power.c:212) Device 'PCI\VEN_15AD&DEV_07A0&SUBSYS_00000000&REV_01\2&b3ac4ede&78' failed IRP_MN_SET_POWER
+(C:/ROS/reactos-0.3.15/ntoskrnl/po/power.c:212) Device 'PCI\VEN_15AD&DEV_07A0&SUBSYS_00000000&REV_01\2&b3ac4ede&98' failed IRP_MN_SET_POWER
+(C:/ROS/reactos-0.3.15/ntoskrnl/po/power.c:212) Device 'PCI\VEN_15AD&DEV_07A0&SUBSYS_00000000&REV_01\2&b3ac4ede&B8' failed IRP_MN_SET_POWER
+(C:/ROS/reactos-0.3.15/ntoskrnl/po/power.c:212) Device 'PCI\VEN_15AD&DEV_07A0&SUBSYS_00000000&REV_01\2&b3ac4ede&D8' failed IRP_MN_SET_POWER
+(C:/ROS/reactos-0.3.15/ntoskrnl/po/power.c:212) Device 'PCI\VEN_15AD&DEV_07A0&SUBSYS_00000000&REV_01\2&b3ac4ede&F8' failed IRP_MN_SET_POWER
+(C:/ROS/reactos-0.3.15/ntoskrnl/po/power.c:212) Device 'Root\*PNP0303\0000' failed IRP_MN_SET_POWER
+(C:/ROS/reactos-0.3.15/ntoskrnl/po/power.c:212) Device 'Root\*PNP0501\0000' failed IRP_MN_SET_POWER
+(C:/ROS/reactos-0.3.15/ntoskrnl/po/power.c:212) Device 'Root\*PNP0501\0001' failed IRP_MN_SET_POWER
+(C:/ROS/reactos-0.3.15/ntoskrnl/po/power.c:212) Device 'Root\*PNP0400\0000' failed IRP_MN_SET_POWER
+(C:/ROS/reactos-0.3.15/ntoskrnl/po/power.c:212) Device 'Root\*PNP0700\0000' failed IRP_MN_SET_POWER
+(C:/ROS/reactos-0.3.15/ntoskrnl/po/power.c:212) Device 'Root\*PNP0F13\0000' failed IRP_MN_SET_POWER

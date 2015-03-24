@@ -1,0 +1,7 @@
+C:\Users\talba\Documents\Projects\TesteDeDelegado\TesteDeDelegado\bin\Debug\TesteDeDelegado.exe
+C:\Users\talba\Documents\Projects\TesteDeDelegado\TesteDeDelegado\bin\Debug\TesteDeDelegado.pdb
+C:\Users\talba\Documents\Projects\TesteDeDelegado\TesteDeDelegado\obj\Debug\TesteDeDelegado.csprojResolveAssemblyReference.cache
+C:\Users\talba\Documents\Projects\TesteDeDelegado\TesteDeDelegado\obj\Debug\TesteDeDelegado.exe
+C:\Users\talba\Documents\Projects\TesteDeDelegado\TesteDeDelegado\obj\Debug\TesteDeDelegado.pdb
+C:\Users\talba\Documents\Projects\TesteDeDelegado\TesteDeDelegado\bin\Debug\CartesianSystem.dll
+C:\Users\talba\Documents\Projects\TesteDeDelegado\TesteDeDelegado\bin\Debug\CartesianSystem.pdb

@@ -1,0 +1,6 @@
+C:\Users\talba\Documents\Projects\Indexadores\Indexadores\obj\Debug\Indexadores.csprojResolveAssemblyReference.cache
+C:\Users\talba\Documents\Projects\Indexadores\Indexadores\bin\Debug\Indexadores.exe.config
+C:\Users\talba\Documents\Projects\Indexadores\Indexadores\bin\Debug\Indexadores.exe
+C:\Users\talba\Documents\Projects\Indexadores\Indexadores\bin\Debug\Indexadores.pdb
+C:\Users\talba\Documents\Projects\Indexadores\Indexadores\obj\Debug\Indexadores.exe
+C:\Users\talba\Documents\Projects\Indexadores\Indexadores\obj\Debug\Indexadores.pdb

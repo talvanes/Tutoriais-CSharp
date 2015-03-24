@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!--
+  Licensed to the Apache Software Foundation (ASF) under one or more
+  contributor license agreements.  See the NOTICE file distributed with
+  this work for additional information regarding copyright ownership.
+  The ASF licenses this file to You under the Apache License, Version 2.0
+  (the "License"); you may not use this file except in compliance with
+  the License.  You may obtain a copy of the License at
+
+      http://www.apache.org/licenses/LICENSE-2.0
+
+  Unless required by applicable law or agreed to in writing, software
+  distributed under the License is distributed on an "AS IS" BASIS,
+  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  See the License for the specific language governing permissions and
+  limitations under the License.
+-->
+
+<!--
+Essa é uma contribuição de José Cleydson Ferreira da Silva
+
+Este arquivo define quais usuários serão usados no tomCat e nas 
+aplicações que serão desenvolvidas. É importante lembrar que cada
+usuário possui um papel especifico, bem como, administrador(admin)
+gerente(manger) e usuário (user) outras opções são padrão do tomCat.
+Como verá abaixo as senhas ficam expostas o que exige uma regra de 
+segurança bem definida para não ocasionar perda de informações.
+
+Para Definir o papel do usuário é necessário o parâmetro rolename :
+
+<role rolename="admin"/>
+
+Para adicionar um usuário são necessários 3 parâmetros:
+
+* username
+* password
+* roles
+
+Ficando da seguinte forma:
+<user username="cleysinhonv" password="senha" roles="users"/>
+
+cleysinhonv@gail.com
+http://www.vivaolinux.com.br/artigos/userview.php?login=cleysinhonv
+www.gnu-lia.org
+
+-->
+
+<tomcat-users>
+
+  <role rolename="tomcat"/>
+  <role rolename="role1"/>
+  <role rolename="manager"/> <!-- Aqui define-se o papel de cada usuário -->
+  <role rolename="users"/>
+  <role rolename="admin"/>
+  <user username="tomcat" password="tomcat" roles="tomcat"/>
+  <user username="tomdeployer" password="senha" roles="manager"/>
+  <user username="cleysinhonv" password="senha" roles="users"/>
+  <user username="myuser" password="senha" roles="users"/>
+  <user username="cleydson" password="cleydson" roles="admin,manager"/>
+  <user username="both" password="tomcat" roles="tomcat,role1"/>
+  <user username="role1" password="tomcat" roles="role1"/>
+</tomcat-users>
+
+

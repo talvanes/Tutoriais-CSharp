@@ -1,0 +1,6 @@
+C:\Users\talba\Documents\Projects\WinForms\Anchor\obj\Debug\Anchor.csprojResolveAssemblyReference.cache
+C:\Users\talba\Documents\Projects\WinForms\Anchor\bin\Debug\Anchor.exe.config
+C:\Users\talba\Documents\Projects\WinForms\Anchor\bin\Debug\Anchor.exe
+C:\Users\talba\Documents\Projects\WinForms\Anchor\bin\Debug\Anchor.pdb
+C:\Users\talba\Documents\Projects\WinForms\Anchor\obj\Debug\Anchor.exe
+C:\Users\talba\Documents\Projects\WinForms\Anchor\obj\Debug\Anchor.pdb

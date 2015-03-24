@@ -1,0 +1,5 @@
+C:\Users\talba\Documents\Projects\CartesianSystem\CartesianSystem\obj\Debug\CartesianSystem.csprojResolveAssemblyReference.cache
+C:\Users\talba\Documents\Projects\CartesianSystem\CartesianSystem\bin\Debug\CartesianSystem.dll
+C:\Users\talba\Documents\Projects\CartesianSystem\CartesianSystem\bin\Debug\CartesianSystem.pdb
+C:\Users\talba\Documents\Projects\CartesianSystem\CartesianSystem\obj\Debug\CartesianSystem.dll
+C:\Users\talba\Documents\Projects\CartesianSystem\CartesianSystem\obj\Debug\CartesianSystem.pdb

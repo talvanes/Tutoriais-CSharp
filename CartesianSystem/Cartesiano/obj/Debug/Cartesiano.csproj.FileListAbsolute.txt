@@ -1,0 +1,7 @@
+C:\Users\talba\Documents\Projects\CartesianSystem\Cartesiano\obj\Debug\Cartesiano.csprojResolveAssemblyReference.cache
+C:\Users\talba\Documents\Projects\CartesianSystem\Cartesiano\bin\Debug\Cartesiano.exe
+C:\Users\talba\Documents\Projects\CartesianSystem\Cartesiano\bin\Debug\Cartesiano.pdb
+C:\Users\talba\Documents\Projects\CartesianSystem\Cartesiano\bin\Debug\CartesianSystem.dll
+C:\Users\talba\Documents\Projects\CartesianSystem\Cartesiano\bin\Debug\CartesianSystem.pdb
+C:\Users\talba\Documents\Projects\CartesianSystem\Cartesiano\obj\Debug\Cartesiano.exe
+C:\Users\talba\Documents\Projects\CartesianSystem\Cartesiano\obj\Debug\Cartesiano.pdb

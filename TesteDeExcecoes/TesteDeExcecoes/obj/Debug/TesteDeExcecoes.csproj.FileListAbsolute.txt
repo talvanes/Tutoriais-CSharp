@@ -1,0 +1,5 @@
+C:\Users\talba\Documents\Projects\TesteDeExcecoes\TesteDeExcecoes\bin\Debug\TesteDeExcecoes.exe
+C:\Users\talba\Documents\Projects\TesteDeExcecoes\TesteDeExcecoes\bin\Debug\TesteDeExcecoes.pdb
+C:\Users\talba\Documents\Projects\TesteDeExcecoes\TesteDeExcecoes\obj\Debug\TesteDeExcecoes.csprojResolveAssemblyReference.cache
+C:\Users\talba\Documents\Projects\TesteDeExcecoes\TesteDeExcecoes\obj\Debug\TesteDeExcecoes.exe
+C:\Users\talba\Documents\Projects\TesteDeExcecoes\TesteDeExcecoes\obj\Debug\TesteDeExcecoes.pdb

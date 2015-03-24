@@ -1,0 +1,6 @@
+C:\Users\talba\Documents\Projects\Streams\ReadingXML\bin\Debug\ReadingXML.exe.config
+C:\Users\talba\Documents\Projects\Streams\ReadingXML\bin\Debug\ReadingXML.exe
+C:\Users\talba\Documents\Projects\Streams\ReadingXML\bin\Debug\ReadingXML.pdb
+C:\Users\talba\Documents\Projects\Streams\ReadingXML\obj\Debug\ReadingXML.exe
+C:\Users\talba\Documents\Projects\Streams\ReadingXML\obj\Debug\ReadingXML.pdb
+C:\Users\talba\Documents\Projects\Streams\ReadingXML\obj\Debug\ReadingXML.csprojResolveAssemblyReference.cache

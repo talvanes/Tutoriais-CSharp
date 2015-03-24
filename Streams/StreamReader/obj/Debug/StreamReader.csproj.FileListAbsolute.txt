@@ -1,0 +1,6 @@
+C:\Users\talba\Documents\Projects\Streams\StreamReader\obj\Debug\StreamReader.csprojResolveAssemblyReference.cache
+C:\Users\talba\Documents\Projects\Streams\StreamReader\bin\Debug\StreamReader.exe.config
+C:\Users\talba\Documents\Projects\Streams\StreamReader\bin\Debug\StreamReader.exe
+C:\Users\talba\Documents\Projects\Streams\StreamReader\bin\Debug\StreamReader.pdb
+C:\Users\talba\Documents\Projects\Streams\StreamReader\obj\Debug\StreamReader.exe
+C:\Users\talba\Documents\Projects\Streams\StreamReader\obj\Debug\StreamReader.pdb

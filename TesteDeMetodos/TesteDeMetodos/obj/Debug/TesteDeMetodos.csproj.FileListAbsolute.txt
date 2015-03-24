@@ -1,0 +1,5 @@
+C:\Users\talba\Documents\Projects\TesteDeMetodos\TesteDeMetodos\bin\Debug\TesteDeMetodos.exe
+C:\Users\talba\Documents\Projects\TesteDeMetodos\TesteDeMetodos\bin\Debug\TesteDeMetodos.pdb
+C:\Users\talba\Documents\Projects\TesteDeMetodos\TesteDeMetodos\obj\Debug\TesteDeMetodos.csprojResolveAssemblyReference.cache
+C:\Users\talba\Documents\Projects\TesteDeMetodos\TesteDeMetodos\obj\Debug\TesteDeMetodos.exe
+C:\Users\talba\Documents\Projects\TesteDeMetodos\TesteDeMetodos\obj\Debug\TesteDeMetodos.pdb

@@ -1,0 +1,6 @@
+C:\Users\talba\Documents\Projects\Multithreading\ManagingAndDestroying\obj\Debug\ManagingAndDestroying.csprojResolveAssemblyReference.cache
+C:\Users\talba\Documents\Projects\Multithreading\ManagingAndDestroying\bin\Debug\ManagingAndDestroying.exe.config
+C:\Users\talba\Documents\Projects\Multithreading\ManagingAndDestroying\bin\Debug\ManagingAndDestroying.exe
+C:\Users\talba\Documents\Projects\Multithreading\ManagingAndDestroying\bin\Debug\ManagingAndDestroying.pdb
+C:\Users\talba\Documents\Projects\Multithreading\ManagingAndDestroying\obj\Debug\ManagingAndDestroying.exe
+C:\Users\talba\Documents\Projects\Multithreading\ManagingAndDestroying\obj\Debug\ManagingAndDestroying.pdb

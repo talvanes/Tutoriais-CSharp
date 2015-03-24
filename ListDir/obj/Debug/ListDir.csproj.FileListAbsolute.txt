@@ -1,0 +1,6 @@
+C:\Users\talba\Documents\Projects\ListDir\bin\Debug\ListDir.exe.config
+C:\Users\talba\Documents\Projects\ListDir\bin\Debug\ListDir.exe
+C:\Users\talba\Documents\Projects\ListDir\bin\Debug\ListDir.pdb
+C:\Users\talba\Documents\Projects\ListDir\obj\Debug\ListDir.csprojResolveAssemblyReference.cache
+C:\Users\talba\Documents\Projects\ListDir\obj\Debug\ListDir.exe
+C:\Users\talba\Documents\Projects\ListDir\obj\Debug\ListDir.pdb

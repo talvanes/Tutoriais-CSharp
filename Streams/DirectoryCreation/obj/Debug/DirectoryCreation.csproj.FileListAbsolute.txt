@@ -1,0 +1,6 @@
+C:\Users\talba\Documents\Projects\Streams\DirectoryCreation\obj\Debug\DirectoryCreation.csprojResolveAssemblyReference.cache
+C:\Users\talba\Documents\Projects\Streams\DirectoryCreation\bin\Debug\DirectoryCreation.exe.config
+C:\Users\talba\Documents\Projects\Streams\DirectoryCreation\bin\Debug\DirectoryCreation.exe
+C:\Users\talba\Documents\Projects\Streams\DirectoryCreation\bin\Debug\DirectoryCreation.pdb
+C:\Users\talba\Documents\Projects\Streams\DirectoryCreation\obj\Debug\DirectoryCreation.exe
+C:\Users\talba\Documents\Projects\Streams\DirectoryCreation\obj\Debug\DirectoryCreation.pdb

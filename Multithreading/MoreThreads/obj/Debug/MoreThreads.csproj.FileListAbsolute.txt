@@ -1,0 +1,6 @@
+C:\Users\talba\Documents\Projects\Multithreading\MoreThreads\bin\Debug\MoreThreads.exe.config
+C:\Users\talba\Documents\Projects\Multithreading\MoreThreads\bin\Debug\MoreThreads.exe
+C:\Users\talba\Documents\Projects\Multithreading\MoreThreads\bin\Debug\MoreThreads.pdb
+C:\Users\talba\Documents\Projects\Multithreading\MoreThreads\obj\Debug\MoreThreads.exe
+C:\Users\talba\Documents\Projects\Multithreading\MoreThreads\obj\Debug\MoreThreads.pdb
+C:\Users\talba\Documents\Projects\Multithreading\MoreThreads\obj\Debug\MoreThreads.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+C:\Users\talba\Documents\Projects\CSharp\CSharp\bin\Debug\CSharp.exe
+C:\Users\talba\Documents\Projects\CSharp\CSharp\bin\Debug\CSharp.pdb
+C:\Users\talba\Documents\Projects\CSharp\CSharp\obj\Debug\CSharp.csprojResolveAssemblyReference.cache
+C:\Users\talba\Documents\Projects\CSharp\CSharp\obj\Debug\CSharp.exe
+C:\Users\talba\Documents\Projects\CSharp\CSharp\obj\Debug\CSharp.pdb

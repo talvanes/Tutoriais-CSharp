@@ -1,0 +1,5 @@
+C:\Users\talba\Documents\Projects\CalculoEstatisitco\CalculoEstatisitco\obj\Debug\Matematica.csprojResolveAssemblyReference.cache
+C:\Users\talba\Documents\Projects\CalculoEstatisitco\CalculoEstatisitco\bin\Debug\Matematica.exe
+C:\Users\talba\Documents\Projects\CalculoEstatisitco\CalculoEstatisitco\bin\Debug\Matematica.pdb
+C:\Users\talba\Documents\Projects\CalculoEstatisitco\CalculoEstatisitco\obj\Debug\Matematica.exe
+C:\Users\talba\Documents\Projects\CalculoEstatisitco\CalculoEstatisitco\obj\Debug\Matematica.pdb

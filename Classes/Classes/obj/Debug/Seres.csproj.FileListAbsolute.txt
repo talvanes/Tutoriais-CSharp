@@ -1,0 +1,5 @@
+C:\Users\talba\Documents\Projects\Classes\Classes\obj\Debug\Seres.csprojResolveAssemblyReference.cache
+C:\Users\talba\Documents\Projects\Classes\Classes\bin\Debug\Seres.exe
+C:\Users\talba\Documents\Projects\Classes\Classes\bin\Debug\Seres.pdb
+C:\Users\talba\Documents\Projects\Classes\Classes\obj\Debug\Seres.exe
+C:\Users\talba\Documents\Projects\Classes\Classes\obj\Debug\Seres.pdb

@@ -1,0 +1,6 @@
+C:\Users\talba\Documents\Projects\WinForms\EditorSkeleton\obj\Debug\EditorSkeleton.csprojResolveAssemblyReference.cache
+C:\Users\talba\Documents\Projects\WinForms\EditorSkeleton\bin\Debug\EditorSkeleton.exe.config
+C:\Users\talba\Documents\Projects\WinForms\EditorSkeleton\bin\Debug\EditorSkeleton.exe
+C:\Users\talba\Documents\Projects\WinForms\EditorSkeleton\bin\Debug\EditorSkeleton.pdb
+C:\Users\talba\Documents\Projects\WinForms\EditorSkeleton\obj\Debug\EditorSkeleton.exe
+C:\Users\talba\Documents\Projects\WinForms\EditorSkeleton\obj\Debug\EditorSkeleton.pdb

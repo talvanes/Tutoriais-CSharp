@@ -1,0 +1,6 @@
+C:\Users\talba\Documents\Projects\ArraysCollections\ArraysCollections\bin\Debug\ArraysCollections.exe
+C:\Users\talba\Documents\Projects\ArraysCollections\ArraysCollections\bin\Debug\ArraysCollections.pdb
+C:\Users\talba\Documents\Projects\ArraysCollections\ArraysCollections\obj\Debug\ArraysCollections.csprojResolveAssemblyReference.cache
+C:\Users\talba\Documents\Projects\ArraysCollections\ArraysCollections\obj\Debug\ArraysCollections.exe
+C:\Users\talba\Documents\Projects\ArraysCollections\ArraysCollections\obj\Debug\ArraysCollections.pdb
+C:\Users\talba\Documents\Projects\ArraysCollections\ArraysCollections\bin\Debug\ArraysCollections.exe.config

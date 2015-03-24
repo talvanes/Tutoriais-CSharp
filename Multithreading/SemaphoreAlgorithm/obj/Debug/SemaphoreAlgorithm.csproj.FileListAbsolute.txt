@@ -1,0 +1,6 @@
+C:\Users\talba\Documents\Projects\Multithreading\SemaphoreAlgorithm\obj\Debug\SemaphoreAlgorithm.csprojResolveAssemblyReference.cache
+C:\Users\talba\Documents\Projects\Multithreading\SemaphoreAlgorithm\bin\Debug\SemaphoreAlgorithm.exe.config
+C:\Users\talba\Documents\Projects\Multithreading\SemaphoreAlgorithm\bin\Debug\SemaphoreAlgorithm.exe
+C:\Users\talba\Documents\Projects\Multithreading\SemaphoreAlgorithm\bin\Debug\SemaphoreAlgorithm.pdb
+C:\Users\talba\Documents\Projects\Multithreading\SemaphoreAlgorithm\obj\Debug\SemaphoreAlgorithm.exe
+C:\Users\talba\Documents\Projects\Multithreading\SemaphoreAlgorithm\obj\Debug\SemaphoreAlgorithm.pdb

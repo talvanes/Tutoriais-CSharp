@@ -1,0 +1,6 @@
+C:\Users\talba\Documents\Projects\Streams\MemoryStream\obj\Debug\MemoryReadWrite.csprojResolveAssemblyReference.cache
+C:\Users\talba\Documents\Projects\Streams\MemoryStream\bin\Debug\MemoryReadWrite.exe.config
+C:\Users\talba\Documents\Projects\Streams\MemoryStream\bin\Debug\MemoryReadWrite.exe
+C:\Users\talba\Documents\Projects\Streams\MemoryStream\bin\Debug\MemoryReadWrite.pdb
+C:\Users\talba\Documents\Projects\Streams\MemoryStream\obj\Debug\MemoryReadWrite.exe
+C:\Users\talba\Documents\Projects\Streams\MemoryStream\obj\Debug\MemoryReadWrite.pdb

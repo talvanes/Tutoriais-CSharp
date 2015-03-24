@@ -1,0 +1,60 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 4.4
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinForms", "WinForms\WinForms.csproj", "{A38C238D-95F5-449A-912F-0CCE1F7148BF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Anchor", "Anchor\Anchor.csproj", "{0429E46E-B408-40FB-8FF6-0DBE3E751A7D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EditorSkeleton", "EditorSkeleton\EditorSkeleton.csproj", "{B692F61C-1E2B-48C8-A990-E1BA001EA1BB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnchoredButtons", "AnchoredButtons\AnchoredButtons.csproj", "{BEA76AB3-4FA5-4AE1-9966-20D42D9A1FF2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlayerSkeleton", "PlayerSkeleton\PlayerSkeleton.csproj", "{A3CECD3C-5E4D-44BD-B60A-F809154FEB6E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MenusToolbars", "SimpleMenu\MenusToolbars.csproj", "{F88E5380-FDFF-402F-9C21-3D97CE471AFD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MenuWithImages", "MenuWithImages\MenuWithImages.csproj", "{1C6EC98B-A131-40DB-B559-17AA898005FA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasicControls", "BasicControls\BasicControls.csproj", "{5E6E2E90-98B2-498B-9C23-0267F0B24EED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A38C238D-95F5-449A-912F-0CCE1F7148BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A38C238D-95F5-449A-912F-0CCE1F7148BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A38C238D-95F5-449A-912F-0CCE1F7148BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A38C238D-95F5-449A-912F-0CCE1F7148BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0429E46E-B408-40FB-8FF6-0DBE3E751A7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0429E46E-B408-40FB-8FF6-0DBE3E751A7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0429E46E-B408-40FB-8FF6-0DBE3E751A7D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0429E46E-B408-40FB-8FF6-0DBE3E751A7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B692F61C-1E2B-48C8-A990-E1BA001EA1BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B692F61C-1E2B-48C8-A990-E1BA001EA1BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B692F61C-1E2B-48C8-A990-E1BA001EA1BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B692F61C-1E2B-48C8-A990-E1BA001EA1BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEA76AB3-4FA5-4AE1-9966-20D42D9A1FF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEA76AB3-4FA5-4AE1-9966-20D42D9A1FF2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEA76AB3-4FA5-4AE1-9966-20D42D9A1FF2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BEA76AB3-4FA5-4AE1-9966-20D42D9A1FF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3CECD3C-5E4D-44BD-B60A-F809154FEB6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3CECD3C-5E4D-44BD-B60A-F809154FEB6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3CECD3C-5E4D-44BD-B60A-F809154FEB6E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3CECD3C-5E4D-44BD-B60A-F809154FEB6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F88E5380-FDFF-402F-9C21-3D97CE471AFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F88E5380-FDFF-402F-9C21-3D97CE471AFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F88E5380-FDFF-402F-9C21-3D97CE471AFD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F88E5380-FDFF-402F-9C21-3D97CE471AFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C6EC98B-A131-40DB-B559-17AA898005FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C6EC98B-A131-40DB-B559-17AA898005FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C6EC98B-A131-40DB-B559-17AA898005FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C6EC98B-A131-40DB-B559-17AA898005FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E6E2E90-98B2-498B-9C23-0267F0B24EED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E6E2E90-98B2-498B-9C23-0267F0B24EED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E6E2E90-98B2-498B-9C23-0267F0B24EED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E6E2E90-98B2-498B-9C23-0267F0B24EED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+EndGlobal

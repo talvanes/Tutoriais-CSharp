@@ -1,0 +1,6 @@
+C:\Users\talba\Documents\Projects\WinForms\WinForms\bin\Debug\WinForms.exe.config
+C:\Users\talba\Documents\Projects\WinForms\WinForms\bin\Debug\WinForms.exe
+C:\Users\talba\Documents\Projects\WinForms\WinForms\bin\Debug\WinForms.pdb
+C:\Users\talba\Documents\Projects\WinForms\WinForms\obj\Debug\WinForms.csprojResolveAssemblyReference.cache
+C:\Users\talba\Documents\Projects\WinForms\WinForms\obj\Debug\WinForms.exe
+C:\Users\talba\Documents\Projects\WinForms\WinForms\obj\Debug\WinForms.pdb

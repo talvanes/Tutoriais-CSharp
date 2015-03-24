@@ -1,0 +1,8 @@
+C:\Users\talba\Documents\Projects\WinFormsCSharp\WinFormsCSharp\obj\Debug\WinFormsCSharp.csprojResolveAssemblyReference.cache
+C:\Users\talba\Documents\Projects\WinFormsCSharp\WinFormsCSharp\obj\Debug\WinFormsCSharp.MainForm.resources
+C:\Users\talba\Documents\Projects\WinFormsCSharp\WinFormsCSharp\obj\Debug\WinFormsCSharp.csproj.GenerateResource.Cache
+C:\Users\talba\Documents\Projects\WinFormsCSharp\WinFormsCSharp\bin\Debug\WinFormsCSharp.exe.config
+C:\Users\talba\Documents\Projects\WinFormsCSharp\WinFormsCSharp\bin\Debug\WinFormsCSharp.exe
+C:\Users\talba\Documents\Projects\WinFormsCSharp\WinFormsCSharp\bin\Debug\WinFormsCSharp.pdb
+C:\Users\talba\Documents\Projects\WinFormsCSharp\WinFormsCSharp\obj\Debug\WinFormsCSharp.exe
+C:\Users\talba\Documents\Projects\WinFormsCSharp\WinFormsCSharp\obj\Debug\WinFormsCSharp.pdb

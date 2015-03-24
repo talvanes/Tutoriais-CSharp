@@ -1,0 +1,6 @@
+C:\Users\talba\Documents\Projects\WinForms\BasicControls\bin\Debug\BasicControls.exe.config
+C:\Users\talba\Documents\Projects\WinForms\BasicControls\bin\Debug\BasicControls.exe
+C:\Users\talba\Documents\Projects\WinForms\BasicControls\bin\Debug\BasicControls.pdb
+C:\Users\talba\Documents\Projects\WinForms\BasicControls\obj\Debug\BasicControls.csprojResolveAssemblyReference.cache
+C:\Users\talba\Documents\Projects\WinForms\BasicControls\obj\Debug\BasicControls.exe
+C:\Users\talba\Documents\Projects\WinForms\BasicControls\obj\Debug\BasicControls.pdb

@@ -1,0 +1,6 @@
+C:\Users\talba\Documents\Projects\Streams\CountingLines\obj\Debug\CountingLines.csprojResolveAssemblyReference.cache
+C:\Users\talba\Documents\Projects\Streams\CountingLines\bin\Debug\CountingLines.exe.config
+C:\Users\talba\Documents\Projects\Streams\CountingLines\bin\Debug\CountingLines.exe
+C:\Users\talba\Documents\Projects\Streams\CountingLines\bin\Debug\CountingLines.pdb
+C:\Users\talba\Documents\Projects\Streams\CountingLines\obj\Debug\CountingLines.exe
+C:\Users\talba\Documents\Projects\Streams\CountingLines\obj\Debug\CountingLines.pdb

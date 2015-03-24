@@ -1,0 +1,6 @@
+C:\Users\talba\Documents\Projects\Multithreading\DeadLock\bin\Debug\DeadLock.exe.config
+C:\Users\talba\Documents\Projects\Multithreading\DeadLock\bin\Debug\DeadLock.exe
+C:\Users\talba\Documents\Projects\Multithreading\DeadLock\bin\Debug\DeadLock.pdb
+C:\Users\talba\Documents\Projects\Multithreading\DeadLock\obj\Debug\DeadLock.csprojResolveAssemblyReference.cache
+C:\Users\talba\Documents\Projects\Multithreading\DeadLock\obj\Debug\DeadLock.exe
+C:\Users\talba\Documents\Projects\Multithreading\DeadLock\obj\Debug\DeadLock.pdb

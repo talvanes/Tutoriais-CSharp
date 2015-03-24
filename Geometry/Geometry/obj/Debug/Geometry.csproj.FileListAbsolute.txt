@@ -1,0 +1,5 @@
+C:\Users\talba\Documents\Projects\Geometry\Geometry\obj\Debug\Geometry.csprojResolveAssemblyReference.cache
+C:\Users\talba\Documents\Projects\Geometry\Geometry\bin\Debug\Geometry.exe
+C:\Users\talba\Documents\Projects\Geometry\Geometry\bin\Debug\Geometry.pdb
+C:\Users\talba\Documents\Projects\Geometry\Geometry\obj\Debug\Geometry.exe
+C:\Users\talba\Documents\Projects\Geometry\Geometry\obj\Debug\Geometry.pdb

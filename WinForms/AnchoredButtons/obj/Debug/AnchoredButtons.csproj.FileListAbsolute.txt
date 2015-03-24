@@ -1,0 +1,6 @@
+C:\Users\talba\Documents\Projects\WinForms\AnchoredButtons\bin\Debug\AnchoredButtons.exe.config
+C:\Users\talba\Documents\Projects\WinForms\AnchoredButtons\bin\Debug\AnchoredButtons.exe
+C:\Users\talba\Documents\Projects\WinForms\AnchoredButtons\bin\Debug\AnchoredButtons.pdb
+C:\Users\talba\Documents\Projects\WinForms\AnchoredButtons\obj\Debug\AnchoredButtons.csprojResolveAssemblyReference.cache
+C:\Users\talba\Documents\Projects\WinForms\AnchoredButtons\obj\Debug\AnchoredButtons.exe
+C:\Users\talba\Documents\Projects\WinForms\AnchoredButtons\obj\Debug\AnchoredButtons.pdb

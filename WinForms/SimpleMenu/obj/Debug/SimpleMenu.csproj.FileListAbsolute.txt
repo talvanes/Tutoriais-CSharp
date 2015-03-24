@@ -1,0 +1,6 @@
+C:\Users\talba\Documents\Projects\WinForms\SimpleMenu\bin\Debug\SimpleMenu.exe.config
+C:\Users\talba\Documents\Projects\WinForms\SimpleMenu\bin\Debug\SimpleMenu.exe
+C:\Users\talba\Documents\Projects\WinForms\SimpleMenu\bin\Debug\SimpleMenu.pdb
+C:\Users\talba\Documents\Projects\WinForms\SimpleMenu\obj\Debug\SimpleMenu.csprojResolveAssemblyReference.cache
+C:\Users\talba\Documents\Projects\WinForms\SimpleMenu\obj\Debug\SimpleMenu.exe
+C:\Users\talba\Documents\Projects\WinForms\SimpleMenu\obj\Debug\SimpleMenu.pdb

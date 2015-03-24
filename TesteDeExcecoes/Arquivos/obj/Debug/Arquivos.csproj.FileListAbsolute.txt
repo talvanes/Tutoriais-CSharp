@@ -1,0 +1,5 @@
+C:\Users\talba\Documents\Projects\TesteDeExcecoes\Arquivos\bin\Debug\Arquivos.exe
+C:\Users\talba\Documents\Projects\TesteDeExcecoes\Arquivos\bin\Debug\Arquivos.pdb
+C:\Users\talba\Documents\Projects\TesteDeExcecoes\Arquivos\obj\Debug\Arquivos.csprojResolveAssemblyReference.cache
+C:\Users\talba\Documents\Projects\TesteDeExcecoes\Arquivos\obj\Debug\Arquivos.exe
+C:\Users\talba\Documents\Projects\TesteDeExcecoes\Arquivos\obj\Debug\Arquivos.pdb
